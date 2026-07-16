@@ -1,0 +1,346 @@
+Attack
+Damages the enemy.
+Skill #1 will be used when you select\#the Attack command.
+attacks!
+Guard
+Protects user and reduces damage taken.
+Skill #2 will be used when you select\#the Guard command.
+guards.
+Dual Attack
+Hits an enemy twice!
+Double Attack
+Attacks two random enemies.
+Triple Attack
+Attacks three random enemies.
+Escape
+Enemy action. Causes enemy to flee from battle.
+flees.
+Wait
+Does nothing.
+waits.
+Fire Breath
+Deals fire damage to all enemies.
+uses Fire Breath!
+Ice Breath
+Deals ice damage to all enemies.
+uses Ice Breath!
+Shock
+uses Shock!
+Poison Cloud
+Poison all enemies.
+uses Poison Cloud!
+Dark Cloud
+Blinds all enemies.
+uses Dark Cloud!
+Forget Cloud
+Silences all enemies.
+uses Forget Cloud!
+Sonic Wave
+Confuses all enemies.
+uses Sonic Wave
+Confusion Song
+sings Confusion Song!
+Sleep Breath
+Puts all enemies to sleep.
+uses Sleep Breath!
+Sleep Pollen
+uses Sleep Pollen.
+Paralyze Breath
+Paralyzes all enemies.
+uses Paralyze Breath!
+Paralyze Stare
+Paralyzes a single enemy.
+uses Paralyze Stare!
+Sweep Kick
+Attempt to stun an enemy.
+uses Sweep Kick!
+Bodyslam
+Damages enemy and attempt to stun enemy.
+uses Bodyslam!
+Shout
+Stuns all enemies.
+uses Shout!
+Vampire
+Absorbs enemy's HP.
+uses Vampire!
+Meditate
+Recovers user's HP.
+uses Meditate!
+Heal
+Restores HP to one ally.
+casts Heal!
+Heal II
+casts Heal II!
+Heal III
+casts Heal III!
+Recovery
+Restores HP to all allies.
+casts Recovery!
+Recovery II
+casts Recovery II!
+Cure
+Cures poison and paralsys.
+casts Cure!
+Cure II
+Cures many status ailments.
+casts Cure II!
+Raise
+Revives a fallen ally.
+casts Raise!
+Raise II
+Revives a fallen ally with a lot of HP.
+casts Raise II!
+Poison
+Poisons all enemies.
+casts Poison!
+Blind
+casts Blind!
+Silence
+casts Silence!
+Confuse
+casts Confuse!
+Sleep
+casts Sleep!
+Paralyze
+casts Paralyze!
+Breath Weapon
+Increase one ally's ATK.
+casts Breath Weapon!
+Breath Armour
+Increase one ally's DEF.
+casts Breath Armour!
+Divine Breath
+Increase one ally's MDF.
+casts Divine Breath!
+Quick Move
+Increase one ally's AGI.
+casts Quick Move!
+Curse Weapon
+Lower all enemies' ATK.
+casts Curse Weapon!
+Curse Armour
+Lower all enemies' DEF.
+casts Curse Armour
+Divine Curse
+Lower all enemies' MDF.
+casts Divine Curse!
+Slow Move
+Lower all enemies' AGI.
+casts Slow Move!
+Life Drain
+Drains HP from one enemy.
+casts Life Drain!
+Mana Drain
+Drains MP from one enemy.
+casts Mana Drain!
+Fire
+Deals fire damage to one enemy.
+casts Fire!
+Fire II
+casts Fire II!
+Flame
+casts Flame!
+Flame II
+casts Flame II!
+Ice
+Deals ice damage to one enemy.
+casts Ice!
+Ice II
+casts Ice II!
+Blizzard
+casts Blizzard!
+Blizzard II
+casts Blizzard II!
+Thunder
+Deals lightning damage to one enemy.
+casts Thunder!
+Thunder II
+casts Thunder II!
+Spark
+Deals lightning damage to all enemies.
+casts Spark!
+Spark II
+casts Spark II!
+Water
+Deals water damage to one enemy.
+casts Water!
+Wave
+Deals water damage to all enemies.
+casts Wave!
+Stone
+Deals earth damage to one enemy.
+casts Stone!
+Quake
+Deals earth damage to all enemies.
+casts Quake!
+Wind
+Deals wind damage to one enemy.
+casts Wind!
+Tornado
+Deals wind damage to all enemies.
+casts Tornado!
+Saint
+Deals holy damage to one enemy.
+casts Saint!
+Starlight
+Deals holy damage to all enemies.
+ã¯ã¹ã¿ã¼ã©ã¤ããå±ããï¼
+Shade
+Deals dark damage to one enemy.
+casts Shade!
+Darkness
+Deals dark damage to all enemies.
+casts Darkness!
+Burst
+Deals defense ignoring damage to one enemy.
+casts Burst!
+Nuclear
+Deals defense ignoring damage to all enemies.
+casts Nuclear!
+Fire Weapon
+For 5 turns, user gains fire attribute.
+uses Fire Weapon!
+Ice Weapon
+For 5 turns, user gains ice attribute.
+uses Ice Weapon!
+Thunder Weapon
+For 5 turns, user gains lightning attribute.
+uses Thunder Weapon!
+Strong Attack
+A strong attack against one enemy.
+uses Strong Attack!
+Cleave
+An attack against all enemies.
+uses Cleave!
+Berserker's Roar
+For 5 turns, increase ATK of party.
+uses Berserker's Roar!
+Berserker's Dance
+Axe skill. Powerful attack against 3 random enemies.
+uses Berserker's Dance!
+Giant's Rampage
+Axe Skill. A strong attack against all enemies.
+uses Giant's Rampage!
+Tackle
+Attack that may offset an enemy's balance.\#Damage is based on user's ATK and DEF.
+uses Tackle!
+Chakra
+User cures all status ailments.
+uses Chakra!
+Tiger Stance
+For 3 turns, counterattack and cancel enemy attacks.
+uses Tiger Stance!
+No Shadow Kick
+Deal defense ignoring damage to all enemies.\#Skill triggers quicker than usual.
+uses No Shadow Kick!
+Claw Dance
+Claw Skill. Deals damage to one enemy twice.\#Ignores defense.
+uses Claw Dance!
+Cover
+For 1 turn, protect allies with low HP.
+uses Cover!
+Provoke
+For 5 turns, user is more likely to be attacked.
+uses Provoke!
+Super Guard
+For 3 turns, heavily reduce physical damage taken.
+uses Super Guard!
+Restrengthen
+For 5 turns, greatly boost DEF for party.
+uses Restrengthen!
+Zero Storm
+Spear Skill. Strong attack to 3 random enemies.
+uses Zero Storm!
+Aura Blade
+Sword Skill. Attacked enemy may be silenced.\#Damage is based off user's ATK and MAT.
+uses Aura Blade!
+Dispel
+Cancels enemy enchantments.
+uses Dispel!
+Magic Barrier
+casts Magic Barrier!
+Reinforce
+For 5 turns, grants user fire, ice, and lightning\#attributes.
+uses Reinforce!
+Radiant Blade
+Sword Skill. Strong magical attack to all enemies.\#Damage is based on user's ATK and MAT.
+uses Radiant Blade!
+Yoroidoshi
+uses Yoroidoshi!
+Shintou Mekkyaku
+Increases a little bit of TP.
+uses Shintou Mekkyaku!
+Hassou
+For 5 turns, increase user's ATK and DEF.
+uses Hassou!
+Tsubamekaeshi
+Katana Skill. All out attack against all enemies.
+uses Tsubamekaeshi!
+Ouka Mugen jin
+Katana Skill. Attacks all enemies 4 times.
+uses Ouka Mugen Ha!
+Weapon Break
+Attacks enemy and lowers ATK.
+uses Weapon Break!
+Armour Break
+Attacks enemy and lowers DEF.
+uses Armour Break!
+Zero Shadow
+For 5 turns, greatly boost AGI for user.
+uses Zero Shadow!
+Triple Shot
+Bow Skill. Strong attack against 3 random enemies.\#Damage is based on user's ATK and AGI.
+uses Triple Shot!
+Thousand Arrows
+Bow Skill. Strong attack against all enemies 3 times.\#Damage is based on user's ATK and AGI.
+uses Thousand Arrows!
+Vanish
+For 5 turns, user is less likely to be attacked.
+uses Vanish!
+Flare
+uses Flare!
+Thief's Luck
+For 8 turns, greatly boost LUK for user.
+uses Thief's Luck!
+Assassin's Edge
+Dagger Skill. Strong attack hits one enemy twice.\#Damage is based on user's ATK and LUK.
+uses Assassin's Edge
+Valiant Edge
+Dagger Skill. Strong attack hits 4 random enemies.\#Damage is based on user's ATK and LUK.
+uses Valiant Edge!
+Spirit's Blessing
+For 3 turns, party's DEF increases.
+uses Holy Blessing!
+Fairy's Breath
+For 4 turns, regenerate party's HP.
+uses Fairy's Breath!
+God's Will
+Holy damage against all enemies.
+uses God's Will!
+Goddess' Embrace
+For 7 turns, greatly increase DEF and MDF for party.
+uses Goddess' Embrace!
+Magic Reflect
+For 1 turn, reflect enemy magic attacks.
+uses Magic Reflect!
+Enhance Spell
+For 5 turns, greatly increase user's MAT.
+uses Enhance Spell!
+Nightmare
+Puts all enemies to sleep and greatly lower their MDF.
+uses Nightmare!
+Magic Torrent
+Recovers 50% of MaxMP.
+uses Magic Torrent!
+Magic Pulse
+For 4 turns, user has MP regen.
+uses Magic Pulse!
+Spell Resistance
+For 3 turns, user evades all magic attacks.
+uses Spell Resistance!
+Mana Barrier
+For 5 turns, party is immune to status ailments.
+uses Mana Barrier!
+Mystic Spell
+For 5 turns, reduce the MP cost of spells for user.
+uses Mystic Spell!

@@ -1,0 +1,52 @@
+Death
+State #1 will be automatically added when\#HP reaches 0.
+has fallen!
+is slain!
+revives!
+Poison
+is poisoned!
+is freed of poison!
+Blind
+becomes blind!
+is blinded!
+is no longer blinded!
+Silence
+cannot cast Magic!
+'s Magic is no longer sealed!
+Confusion
+becomes confused!
+is confused!
+is no longer confused!
+Sleep
+falls asleep!
+is sleeping......
+wakes up!
+Paralysis
+becomes paralyzed!
+is paralyzed!
+is unable to move!
+is no longer paralyzed!
+Stun
+loses balance!
+hasn't regained balance......
+regains balance!
+Guard
+Immortal
+Cover
+Provoke
+Hide
+HP Regen
+MP Regen
+TP Regen
+Ironbody
+Counterattack
+Magic Evade
+Magic Reflect
+Fire Force
+acquires the power of fire!
+Ice Force
+acquires the power of ice!
+Thunder Force
+acquires the power of thunder!
+Ailment Guard
+MP Cost Down

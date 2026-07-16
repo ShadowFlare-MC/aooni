@@ -1,0 +1,587 @@
+Buy
+Sell
+Cancel
+Possession
+Current Exp
+To Next %s
+Save to which file?
+Load which file?
+File
+%s's Party
+%s emerged!
+%s got the upper hand!
+%s was surprised!
+%s has started to escape!
+However, it was unable to escape!
+%s was victorious!
+%s was defeated.
+%s EXP received!
+%s\\G found!
+%s found!
+%s is now %s %s!
+%s learned!
+%s uses %s!
+An excellent hit!!
+A painful blow!!
+%s took %s damage!
+%s recovered %s %s!
+%s gained %s %s!
+%s lost %s %s!
+%s was drained of %s %s!
+%s took no damage!
+Miss! %s took no damage!
+Drained %s %s from %s!
+Missed! %s took no damage!
+%s evaded the attack!
+%s nullified the magic!
+%s reflected the magic!
+%s counterattacked!
+%s protected %s!
+%s's %s went up!
+%s's %s went down!
+%s's %s returned to normal.
+There was no effect on %s!
+Player's starting position is not set.
+Common event calls exceeded the limit.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ï¼¡
+ï¼¢
+ï¼£
+ï¼¤
+ï¼¥
+ï¼¦
+ï¼§
+ï¼¨
+ï¼©
+ï¼ª
+ï¼«
+ï¼¬
+ï¼­
+ï¼®
+ï¼¯
+ï¼°
+ï¼±
+ï¼²
+ï¼³
+ï¼´
+ï¼µ
+ï¼¶
+ï¼·
+ï¼¸
+ï¼¹
+ï¼º
+Balloon
+Shadow
+Wasteland
+DirtField
+Desert
+Lava1
+Lava2
+Snowfield
+Clouds
+PoisonSwamp
+Forest1
+Cliff
+Lava
+Grassland
+Ship
+â
+Ã
+ã
+a
+b
+c
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+Page
+OK
+Ã
+Ã
+Ã
+Ã
+Ã
+Ã¡
+Ã©
+Ã­
+Ã³
+Ãº
+Ã
+Ã
+Ã
+Ã
+Ã
+Ã 
+Ã¨
+Ã¬
+Ã²
+Ã¹
+Ã
+Ã
+Ã
+Ã
+Ã
+Ã¢
+Ãª
+Ã®
+Ã´
+Ã»
+Ã
+Ã
+Ã
+Ã
+Ã
+Ã¤
+Ã«
+Ã¯
+Ã¶
+Ã¼
+Ä
+Ä
+Äª
+Å
+Åª
+Ä
+Ä
+Ä«
+Å
+Å«
+Ã
+Ã
+Ã
+Ã
+Ã
+Ã£
+Ã¥
+Ã¦
+Ã§
+Ã°
+Ã
+Ã
+Ã
+Å 
+Å´
+Ã±
+Ãµ
+Ã¸
+Å¡
+Åµ
+Ã
+Å¶
+Å¸
+Å½
+Ã
+Ã½
+Ã¿
+Å·
+Å¾
+Ã¾
+Ä²
+Å
+Ä³
+Å
+Ã
+Â«
+Â»
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã 
+ã¢
+ã¥
+ã§
+ã©
+ã
+ã¡
+ã¤
+ã¦
+ã¨
+ã°
+ã³
+ã¶
+ã¹
+ã¼
+ãª
+ã«
+ã¬
+ã­
+ã®
+ã±
+ã´
+ã·
+ãº
+ã½
+ã¯
+ã²
+ãµ
+ã¸
+ã»
+ã
+ã
+ã
+ã
+ã
+ã¾
+ã¿
+ã
+ã
+ã
+ã£
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã¼
+ï½
+ã»
+ï¼
+â
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã«ã
+æ±ºå®
+ã¢
+ã¤
+ã¦
+ã¨
+ãª
+ã¬
+ã®
+ã°
+ã²
+ã´
+ã«
+ã­
+ã¯
+ã±
+ã³
+ã¶
+ã¸
+ãº
+ã¼
+ã¾
+ãµ
+ã·
+ã¹
+ã»
+ã½
+ã
+ã
+ã
+ã
+ã
+ã¿
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã
+ã¡
+ã£
+ã¥
+ã§
+ã©
+ã
+ã
+ã 
+ã¡
+ã¢
+ã
+ã£
+ã¥
+ã§
+ã®
+ã¤
+ã¦
+ã¨
+ã¯
+ã³
+ã©
+ãª
+ã«
+ã¬
+ã­
+ã´
+ã²
+è±æ°
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï½
+ï¼»
+ï¼½
+ï¼¾
+ï¼¿
+ï½
+ï½
+ï½
+ï½
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼
+ï¼ 
+ï¼
+ï¼
+ï¼
+ï¼
+ããª
+S [%04d-%04d]
+V [%04d-%04d]
+YEA-CoreEngine
+helvetica
+VL Gothic
+Verdana
+Arial
+Courier
+Ã%s
+user32
+GetKeyState
+GetClipboardData
+abcdefghijklmnopqrstuvwxyz
+s not comfortable to input name by choosing which symbol\#then press enter. letter by letter. so time consuming.\# \#this script change that!. instead of choosing symbol and press enter.\#you type letter directly from keyboard.\# \#press esc / backspace to erase a character\#press enter when you
+YEA-StopAllMovement
+Journal
+This is entry #1 of the journal. As you can see, it functions as a generic horizontal scrolling window for you to display whatever you'd like here.
+TITLE: #1
+This is entry #2 of the journal.
+TITLE: #2
+This is entry #3 of the journal.
+TITLE: #3
+This is entry #4 of the journal.
+TITLE: #4
+This is entry #5 of the journal.
+TITLE: #5
+There are currently no entries.
+Not Applicable
+RETCON-wordwrap
+YSE-BasicModule
+cl
+z8x8273ac
+MessageBox
+abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ0123456789
+#{dir}/#{filename}.#{ext}
+YSE-PatchSystem
+YSE - Basic Module
+Salt must have at least 2 characters.
+Unique phrase must have at least 1 character.
+YSE-PopMessage
+BubbleTag
+YEA-MessageSystem
+Load
+light
+torch
+oni
+[light
+left
+right
+back
+as-is
+plug and play
+How do I change the speed of the effect?
+Find
+How do I exclude some Window from the effect?
+EXCLUDE
+ox
+oy
+angle
+mirror
+opacity
+color
+tone
+visible
+viewport
+#{meth}=
+CreateWindowEx
+ippiiiiiiiii
+GetClientRect
+ip
+GetDC
+GetSystemMetrics
+GetWindowRect
+FillRect
+ipi
+FindWindow
+pp
+ReleaseDC
+ii
+SendInput
+SetWindowLong
+iii
+SetWindowPos
+iiiiiii
+ShowWindow
+SystemParametersInfo
+iipi
+UpdateWindow
+kernel32
+GetPrivateProfileString
+ppppip
+WritePrivateProfileString
+pppp
+gdi32
+CreateSolidBrush
+DeleteObject
+RGSS Player
+Static
+l4
+LSx2Lx16
+x256
+Fullscreen++
+./Game.ini
+Fullscreen
+FullscreenRatio
+WindowedRatio
+[dlight
+YEA-SaveEngine
+File %s
+Save
+Delete
+Collapse3
+Please select a file slot.
+Loads the data from the saved game.
+Saves the current progress in your game.
+Deletes all data from this save file.
+No Save Data
+Playtime:
+Total Saves:
+Location:
+Mad Father
+filename=
+filename
+#{$1.downcase}=
+#{$1.downcase} is not a valid property for a Sound Emitting Event
+Helvetica

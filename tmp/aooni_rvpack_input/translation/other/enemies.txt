@@ -1,0 +1,30 @@
+Slime
+Bat
+Hornet
+Spider
+Rate
+Wisp
+Large Snake
+Scorpion
+Jellyfish
+Man-Eating Plant
+Ghost
+Skeleton
+Orc
+Imp
+Gazer
+Puppet
+Zombie
+Cockatrice
+Chimera
+Mimic
+Werewolf
+Sahagin
+Ogre
+Gargoyle
+Lamia
+Vampire
+Succubus
+Demon
+Demon King
+Demon God

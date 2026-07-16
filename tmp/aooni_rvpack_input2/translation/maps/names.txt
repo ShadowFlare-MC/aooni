@@ -1,0 +1,70 @@
+Foyer
+Right Wing
+Kitchen
+Left Wing
+Second Floor
+Bedroom
+Library
+Third Floor
+Attic
+Master Bedroom
+Music Room
+Bathroom
+Laundry Room
+North Hall
+Tatami Room
+Rose's Room
+Holding Cell
+Basement
+Storage Room
+Annex Entrance
+Shrine Room
+Oni Holding Cell
+Rumpus Room
+Library 2F
+Annex - Foyer
+Annex - North Hall
+Doll Makers Room
+Annex - Right Wing
+Annex - Basement
+Annex - Second Floor
+Guest Room 2
+Annex - Dining Room
+Annex - Third Floor
+Annex - Attic
+Guest Room 1
+Annex - Kitchen
+Lab - Entrance
+Lab - Hallway
+Lab - Exam Room
+Crematorium
+Lab - Room 1
+Lab - Room 2
+Catacombs
+Courtyard
+Shed
+Well
+Old Building - 1F
+Old Building - 2F
+Bedroom B
+Warden's Study
+Bedroom A
+Sealed Bedroom
+Church
+Records Room
+Old Building - B1
+Church - Basement
+Exit
+Sick-Bay
+Solitary
+Cells
+Summoning Room
+Gaurd Break Room
+???
+Oni Hold
+The Inbetween
+Freedom?
+Sink Hole
+Closet
+Balcony
+Hall

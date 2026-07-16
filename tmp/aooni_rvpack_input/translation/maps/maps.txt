@@ -1,0 +1,1674 @@
+Please choose the game mode.\#\c[2]Cheat codes are only available in Story.
+Story
+DLC - Alternate Outcome
+DLC - Tales
+Choose your difficulty.
+\c[2]Easy\c[0]: \c[3]10% encount. chance\c[0], clues in game.\#\c[2]Normal\c[0]: \c[3]15% encount. chance\c[0].\#\c[2]Hard\c[0]: \c[3]30% encount. chance\c[0], +25% chase time.\#\c[2]Hell\c[0]: \c[3]40% encount. chance\c[0], +50% chase time, \c[2]X\c[0] saves.
+Easy
+Normal
+Hard
+Hell
+\c[2]Easy\c[0] - \c[3]10% encounter chance\c[0], clues in game.\#\c[2]Normal\c[0] - \c[3]15% encounter chance\c[0]\#\c[2]Hard\c[0] - \c[3]30% encounter chance\c[0], +25% chases.
+\c[2]Easy\c[0] - \c[3]10% encounter chance\c[0], clues in game.\#\c[2]Normal\c[0] - \c[3]15% encounter chance\c[0]
+What is the main character's name?
+Coming Soon...\|\^
+Hiroshi
+I thought it was over.\| We had won.\|\#We had freed Shun's spirit and sent\#the creatures back to their dimension.
+I should have known it was just a\#stupid fantasy, too good to be true.\|\#The nightmare was far from over.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#It won't open.\| The handle turns, but\#it feels like something is keeping it\#shut.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#... It's nicer on the inside.
+\bm[11]\>\n<\c[9]Mika\c[0]>\#It's,\. like,\. super cold in\#here.
+\bm[12]\>\n<\c[9]Anna\c[0]>\#At least the power works.
+\bm[9]\>\n<\c[9]Takeshi\c[0]>\#H... \.hey...\|\#Let's get out of here...
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#What's wrong, Takeshi, are\#Ya scared?
+\bm[9]\>\n<\c[9]Takeshi\c[0]>\#N\..\..\..\| no way!
+\bm[12]\>\n<\c[9]Anna\c[0]>\#Don't forget, we need to\#find Shun!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#We were gonna check this\#place out, anyway.
+\bm[9]\>\n<\c[9]Takeshi\c[0]>\#\..\..\..\|\^
+\bm[9]\>\n<\c[9]Takeshi\c[0]>\#\>\c[2]*gulp*\c[0]\<\| I\..\..\.. I really think we\#should get out of here...
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#So stupid...\| There is no\#way monsters can exist.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It's scientifically impossible...
+\bm[12]\>\n<\c[9]Anna\c[0]>\#Maybe it was Shun?
+\bm[9]\>\n<\c[9]Takeshi\c[0]>\#H\..\..\.. hey...\| \n[1]!\|\#Be careful!
+\cbm\^\cbm
+\bm[0]\><\c[9]\n[1]\c[0]>\#Guys?\| This isn't funny!
+\><\c[9]\n[1]\c[0]>\#I found the item, \i[5]\c[1] "Handkerchief"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#The door is locked.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#Unlocked the door.
+\cbm\><\c[9]\n[1]\c[0]>\#A plate is shattered on the ground...
+\><\c[9]\n[1]\c[0]>\#I found the item, \i[0]\c[1] "Plate Shard"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Warden Maxwell Lupin has died at 87.\#\|Lupin's Jailhoue was once the pride of\#our town until around 50 years ago."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"According to sources, every one of the\#Jailhouse workers, inmates, and even\#Lupin's own family, suddenly vanished."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Warden was the only known survivor\#of the incident that claimed the lives\#of over twenty people."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"All the deceased could not be identified\#as all records of their exsistance had\#mysteriously vanished."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Lupin spent the remaining years silent,\#never once speaking a single word since\#the incident."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Once the pride of our fair little town,\#Maxwell Lupin's Jailhouse now sits empty\#and abandoned."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"A restoration project to turn the area\#into a nursing home was supposed to take\#place only for it to become deserted."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"After only a few months of work, the\#budget for the area had already exceeded\#its limits by 32%"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The workers were also refusing to enter\#the area, claiming that it was now home\#to many malicious spirits."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Several of the workers were said to be\#suffering from cases of severe mental\#anguish, including schizophrenia."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"For nearly twenty years the rennovation\#project has been left abandoned, marking\#close to fifty years since the incident."
+\cbm\><\c[9]\n[1]\c[0]>\#It won't open.
+\cbm\><\c[9]\n[1]\c[0]>\#The door is locked.
+\cbm\><\c[9]\n[1]\c[0]>\#Unlocked the door.
+\cbm\><\c[9]\n[1]\c[0]>\#The door is locked from the other side.
+\><\c[9]\n[1]\c[0]>\#I found the item, \i[1]\c[1] "Library Key"
+\bm[10]\>\n<\c[9]Takeshi\c[0]>\#\} \n[1]\..\..\..\| hey, \n[1]\..\..\..\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takeshi?\| Where are you?
+\bm[9]\>\n<\c[9]Takeshi\c[0]>\#\}Be quiet, it'll hear us...
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Why are you hiding in\#there?\| Where is everyone?
+\bm[9]\>\n<\c[9]Takeshi\c[0]>\#\c[2]\>*shivering*
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takeshi?\| Answer me!
+\bm[9]\>\n<\c[9]Takeshi\c[0]>\#\}We\..\..\..\| got attacked.\| Everyone\#ran off\..\..\..\| Have\..\..\..\|\{ have you\#seen it yet?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Seen what?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#\..\..\..\| I'll come back for you\#once I find the others.
+\bm[9]\>\n<\c[9]Takeshi\c[0]>\#\}It's going to kill us all...
+\bm[11]\>\n<\c[9]Takeshi\c[0]>\#\c[2]*shivering*
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#...pathetic.
+\bm[11]\>\n<\c[9]Takeshi\c[0]>\#\c[2]\>*shivering*
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#...
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from the Warden.\| It's titled\#\c[2]Oni Log #2\c[0].)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"After the calling the government had\#suddenly become very interested in\#the Oni."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"We finally recieved funding, more than\#enough for our operation, but now Weird\#men were invading my Jailhouse."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"These men are ruining my precious\#Jailhouse, they have to be made to\#stop."
+\><\c[9]\n[1]\c[0]>\#I found the item, \c[1]"Handkerchief"
+\bm[27]\>\n<\c[9]Anna\c[0]>\#Where is it?\| Where?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Anna?
+\bm[27]\>\n<\c[9]Anna\c[0]>\#\n[01]!\| Did you see it?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#See what?
+\bm[27]\>\n<\c[9]Anna\c[0]>\#That\..\..\.. \>'thing'\<.\| We all\#ran when it attacked us!
+\bm[27]\>\n<\c[9]Anna\c[0]>\#My hands are still shaking!\|\#I thought if I came here...
+\bm[27]\>\n<\c[9]Anna\c[0]>\#I could learn about it.\|\#There has to be something...
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Calm down, Anna.\| You're\#acting hysterical.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Are you sure you even\#saw anything?
+\bm[27]\>\n<\c[9]Anna\c[0]>\#Why would I lie about\#this, \n[1]?
+\bm[27]\>\n<\c[9]Anna\c[0]>\#A monster really attacked us!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#There's no such thing as\#monsters.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#I know what I saw,\#\n[1]!
+\bm[27]\>\n<\c[9]Anna\c[0]>\#Shun is still missing\#and\..\..\..\|\^
+\bm[27]\>\n<\c[9]Anna\c[0]>\#\c[2]\>*sob*\c[0]\<\| I'm scared. \n[1].\|\#Everything is falling apart.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I didn't mean to upset\#you, Anna.\| I'm sorry.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#This whole thing\..\..\.. it's\#crazy, like a bad dream.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Anna\..\..\..\|\^
+\bm[27]\>\n<\c[9]Anna\c[0]>\#No\..\..\..\| just go away.\|\#I need time to think.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#\}Please, just leave me alone.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#\c[2]\>*sob*\c[0]\<\}\| There has to be something here...
+Comfort Anna
+Leave Anna
+\bm[0]\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Anna, I'm sorry that I\#upset you.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#If what you said is true,\#we aren't safe here.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#\c[2]\>*sniff*\c[0]\<\| You're right.\| I'm\#sorry I took it out on you.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#This is all Takuro and\#Takeshi's fault.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#I'm tired of them bullying\#people.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We can't stay here if\#there really is a monster.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#I know, we have to\#find the others.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#I need to finish reading\#these books first, though.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#This library has to have\#a clue about this thing.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#Take a look around, \.quietly.\|\#We might find something.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#I really don't want to be\#bothered right now.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#What is it?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Have you found anything?
+\bm[27]\>\n<\c[9]Anna\c[0]>\#No, and you're distracting\#me, \n[1].
+\bm[27]\>\n<\c[9]Anna\c[0]>\#I'm sorry.\| It's hard to\#process all of this.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#I need to get back to it.
+\bm[27]\>\n<\c[9]Anna\c[0]>\#Not now, \n[1].
+\><\c[9]\n[1]\c[0]>\#I found the item, \i[2]\c[1] "Bedroom Key"
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Anna, I found this\#key...\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#ANNA!\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Look out!\.\|\^
+\bm[27]\>\n<\c[9]Anna\c[0]>\#RUN!\|\^
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(Most of the writing has been ruined by\#water damage.\| One entry can still be\#read.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The costs of running the Jailhouse are\#too expensive.\| We are overcrowded and I\#need a way to fix both problems."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The law has failed me time and time\#again, as criminals are left only to\#rot here, never being put to death."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I love my precious Jailhouse and must do\#everything I can to protect her.\| How can\#I lower costs as well as empty cells?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(The text seems to be in a language I\#don't understand.\| Some is in english\#though.)
+\>\c[9]\n[1]:\c[0]\#It mentions something to do with\#protecting an area or someone with\#a sacrifice.\| \c[2]"They die so you live"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I fear for my husband.\| This Jailhouse\#is his legacy.\| Sometimes I think he\#cares about it more than me."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Something is changing in him, he talks\#about summoning a great protector for\#the Jailhouse to 'punish the sinners.' "
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Why would he need more protection?\|\#We already have over a dozen armed\#men employed here."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(The picture is faded but the title on\#the frame reads \c[2]"My dearest Lanoire"\c[0].\#\|I guess this was the Warden's wife.)
+\cbm\><\c[9]\n[1]\c[0]>\#The way up is locked with a \c[2]padlock\c[0].
+\cbm\><\c[9]\n[1]\c[0]>\#Unlocked the padlock.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[50]\c[1] "Annex Key"
+\cbm\><\c[9]\n[1]\c[0]>\#A door is attached to the wall,\#but there is nothing behind it...
+\cbm\><\c[9]\n[1]\c[0]>\#A door is attached to the wall,\#the doorknob is gone...
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#Glad to see you're safe,\#\n[1].
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Any luck finding Shun?
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#Nothin'\..\..\.. all the exits won't\#open, we're trapped.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#The most logical conclusion\#would be to press on.
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#\c[2]\>*sigh*\c[0]\<\| Even with that thing\#runnin' 'round here?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I've seen it.\| It's not keen\#on having house guests.
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#There's no way it could\#take on all of us.
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#We can corner it and\#bash its brains in.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What thing?
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#It's out of this world\#ugly.
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#A face only a mother\#could love.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We have no idea what\#it is or what it can do.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It's best to avoid it.
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#Who decided to make you\#leader?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#No one, but we need\#caution.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Trying to 'bash its brains\#in' isn't going to help.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We have to approach\#this the right way.
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#Whatever you say, captain.\|\#I'm outta here.
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#Gonna check the first floor\#again, maybe find Takeshi.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#No heroics, Takuro.\| If\#you see that thing, run.
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#Of course.\| I'm too fast\#for it, anyway.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#(We need to find a way\#out before we get caught.)
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#(I hope no more of\#us end up like Anna.)
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#(Locked in an old, run\#down Jailhouse.)
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#(What else could go\#wrong?)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from one of the workers who had\#tried to restore the Jailhouse.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Progress on the restoration is coming\#along nicely, with most of the rooms of\#the mansion finished."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"We even managed to keep most of the\#old furniture, even the Library has\#nearly all of its books."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The main halls are a nightmare to get\#fixed as kids keep breaking in at night,\#believing this place is haunted."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Some of the men are even starting to\#believe the stories about this place.\|\#Why?\| They're just rumors!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The boys refuse to enter the Annex\#or the burned down Gaurdhouse.\| Old\#man Lupin sure scared them good."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It's nice to write down my thoughts\#while I eat lunch up in the Attic.\| I\#find it peaceful."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Nathan was the first to step inside the\#burned down Gaurdhouse after we got\#the breathing masks."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"That place is beyond repair.\| We can\#restore the Annex, but the Gaurd House\#will have to come down.\| What a waste."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Two of the guys Nathan took with him\#have already wound up with some serious\#injuries."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I've always wondered what happened to\#the Wardens family.\| It seems he had a\#wife and little girl suddenly dissapear."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Nathan says he chopped them up and fed\#them to the Jailhouse guests and inmates.\|\#He sure has a vivid imagination. "
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(The note is caked in dust but still\#readable.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It has been months since I felt my\#husbands touch.\| What that man is now\#is no longer my husband."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"He hardly eats or sleeps, and is\#going crazy over the Jailhouse.\| He\#has completely lost his marbles."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I've decided I am going to sneak\#into the Annex and find out what's\#going on.\| What's happened to you?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"My daughter Rose gives me the boost\#I need everyday to get out of bed.\| I\#only hope I can protect her."
+\cbm\><\c[9]\n[1]\c[0]>\#One of the eyes of the painting\#sparkles.\| It has a gem in it.\#Remove it?
+Yes
+No
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[12]\c[1] "Blue Gem"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"\c[4]The \c[2]final answer\c[0]\c[4] will usually be the\#\c[2]first thing\c[4] that comes to mind, \c[2]flipped\#on its head.\c[0]"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[8]\c[1] "Kid's Bedroom Key"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#A painting of three suns eclipsing\#two moons.\| There's an inscription.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"\c[4]The \c[2]third sun rotates\c[4] while the \c[2]second\#moon sits still\c[4], allowing the \c[2]third sun\#to pass it again\c[4], now as \c[2]its equal\c[4].\c[0]"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"To my beautiful Lanoire.\| May this room\#allow you to unlock hidden treasures as\#well as keep them."
+\><\c[9]Mika\c[0]>\#Run...\| quick...\| it's coming!\|\#Get that door open!
+Open Door
+Stay Quiet
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Hurry, Mika, in here!
+\><\c[9]Mika\c[0]>\#\n[1]...
+\><\c[9]Mika\c[0]>\#Open\| the\| door.\|\^
+\><\c[9]mIkA\c[0]>\#...\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#\..\..\..\| I think it's gone.\|\#Was that the creature?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Is it...\| imitating us?
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[9]\c[1] "Compression Kit"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[3]\c[1] "Screwdriver"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(An old page from a diary entry lay\#torn and scrunched up at the back of\#the shelf.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I think I'm beginning to lose my dear\#husband.\| I also fear for our... no, my\#daughters safety."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"He spends nearly all day, every day down\#in the Annex, refusing to let anyone down\#there except a select few."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Several gaurds have already quit as they\#are never allowed to do their jobs, as\#the Annex is part of their patrol route."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I can never bring up the subject with\#Maxwell, as every time I do, something\#changes in him and fills him with hate."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A torn page from a diary.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I found blood again on my husband's\#clothes.\| What is he doing down in the\#Annex?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I may risk a beating but I have no\#choice but to find out, even persuade\#Maxwell to move to the Old Building."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Jailhouse has been falling terribly\#behind in its duties, many of the gaurds\#cannot patrol properly."
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[6]\c[1] "Soap"
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#That sounded like Mika...
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[48]\c[1] "Lighter"
+\cbm\><\c[9]\n[1]\c[0]>\#There is no doorknob.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[7]\c[1] "Lighter Fluid"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A badly written diary entry.\| It looks\#like a child wrote it.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Mommy and daddy have been fighting\#again.\| It always makes me sad. \|Why\#can't we be normal?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I don't know why, but I smashed another\#hamster into goo again.\| Mommy always\#buys me another."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Old Building caught fire so fast.\|\#Doing it made me feel so good last night.\#\|Now I know how mommy felt."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I had to hide the \c[2]lighter fluid\c[0] so my\#mommy and daddy wouldn't find out.\| It's\#in my secret hiding place \c[2]on the shelf\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Lighting fires is very easy.\| I stole\#the lighter fluid from daddys work\#office and practiced with it."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Mommy made daddy move his work to\#the Old Building so that those strange\#men could use the Annex."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Maybe if I light the Old Building on\#fire, daddy will pay attention to me\#again.\| I miss my daddy."
+\bm[7]\>\n<\c[9]Mika\c[0]>\#Have you seen Takuro?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Yeah, he's fine.
+\bm[7]\>\n<\c[9]Mika\c[0]>\#Some good news for a\#change.
+\bm[7]\>\n<\c[9]Mika\c[0]>\#What have you got for\#my ankle?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Nothing yet.\| Sorry, Mika.
+\bm[7]\>\n<\c[9]Mika\c[0]>\#Can't you do anything right?
+\bm[7]\>\n<\c[9]Mika\c[0]>\#Hurry up before that thing\#comes back.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#No, I haven't seen him\#yet.
+\bm[7]\>\n<\c[9]Mika\c[0]>\#I hope he's alright\..\..\..\|\^
+\bm[14]\>\n<\c[9]Anna\c[0]>\#I'm sure he is!\| He's\#a survivor!
+\bm[7]\>\n<\c[9]Mika\c[0]>\#Yeah\..\..\..\|\^
+\bm[7]\>\n<\c[9]Mika\c[0]>\#About time, \n[1].
+\bm[7]\>\n<\c[9]Mika\c[0]>\#Oh, it's just you, \n[1].\|\#I thought it was Takuro.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You look pretty beat up,\#Mika.
+\bm[7]\>\n<\c[9]Mika\c[0]>\#You think?\| I twisted my\#ankle running away.
+\bm[7]\>\n<\c[9]Mika\c[0]>\#At least Anna helped me.
+\bm[14]\>\n<\c[9]Anna\c[0]>\#I'm glad you're still safe,\#\n[1].
+\bm[7]\>\n<\c[9]Mika\c[0]>\#Great analysis.\| I've twisted\#my ankle.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Can you walk?
+\bm[7]\>\n<\c[9]Mika\c[0]>\#No.\| It looks swollen.\| It\#hurts too much to walk.
+\bm[7]\>\n<\c[9]Mika\c[0]>\#This totally sucks.\| I don't\#want to die here.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Maybe I can find an\#old \c[2]compression kit.\c[0]
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It might help you at\#least walk on it.
+\bm[14]\>\n<\c[9]Anna\c[0]>\#Thank you, \n[1].
+\bm[7]\>\n<\c[9]Mika\c[0]>\#Just hurry up, \n[1].
+\bm[14]\>\n<\c[9]Anna\c[0]>\#I hope Shun is safe.
+\bm[16]\>\n<\c[9]Mika\c[0]>\#This totally sucks.\| I\#just want to go home.
+\bm[17]\>\n<\c[9]Anna\c[0]>\#I learned something about\#that monster, \n[1].
+\bm[17]\>\n<\c[9]Anna\c[0]>\#It's an Oni.\| All those\#monster rumors were true.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Something is seriously wrong\#with this place.
+\bm[17]\>\n<\c[9]Anna\c[0]>\#We need to find a way\#out of here, and fast.
+\cbm\><\c[9]\n[1]\c[0]>\#It's too dark to see anything.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(An old not lay here, collecting dust.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It got out.\| I have no idea how, but it\#got out.\| I have to get out of here and\#save my family."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Where is my wife?\| I don't remember\#anything that I've done!\| Where is my\#precious Lanoire?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"My thoughts were not my own, what\#happened to my mind recently?\| Was\#it not my own?"
+\cbm\><\c[9]\n[1]\c[0]>\#A candlestick.\| Light it?
+\cbm\><\c[9]\n[1]\c[0]>\#The lighter is out of fluid!
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[13]\c[1] "Jewlery Box"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[15]\c[1] "Flathead"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[17]\c[1] "Jail Cell Key"
+\cbm\><\c[9]\n[1]\c[0]>\#I can't see anything.\| I'm not\#sure anything is up here.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[11]\c[1] "Red Gem"
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Mika?\|\|\^
+\bm[36]\>\n<\c[9]Mika\c[0]>\#\..\..\..\|\^
+\bm[6]\>\n<\c[9]???\c[0]>\#Why are you here?\| It\#was foolish to come.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Wait!\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#There's a monster attacking\#us!\| Help us!
+\bm[6]\>\n<\c[9]???\c[0]>\#There is nothing I can\#do.\| I'm sorry.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Please\..\..\..
+\bm[6]\>\n<\c[9]???\c[0]>\#If you want to find an\#exit, get to the \c[2]Old\#Building\c[0].
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#(It's pretty dark down\#here, maybe the \c[2]lighter\c[0]\#could help.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from the Warden.\| It's titled\#\c[2]Oni Log #3\c[0].)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"We've had the Oni confined for a few\#weeks down here, examining how it eats\#and what it does in its spare time."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"My wife has become a rathy nosy fly,\#but I can not blame her sometimes for\#I have been acting out to her lately."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It may be the stress of work or those\#very odd men who invaded my Jailhouse,\#but I've just felt so angry lately."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I can't get these thoughts out of my\#mind, the things I feel like doing, and\#the anger that builds up."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Writing down my thoughts somehow calm\#me, help me stay focused.\| The time spent\#reasearching the Oni is interesting."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"While the Oni appears less intelligent\#than most humans, it has in fact shown\#a high level of thought."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It has had a few conversations with\#Troy, one of the regular gaurdsmen.\|\#It seems to mimic him sometimes."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Oni can sound like anyone it has\#ever heard.\| It's like a parrot, but\#instead of copying, it talks."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"We have learned the Oni is ageless,\#and has lived forever, most likely\#because it forgot its own age."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It has an incredible metabolism, able\#to go weeks without food or water. \|Its\#strength is also incredible."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It seems to excel any known person,\#so we have had to use three sets of\#ball and chain."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The way it stares at me, It makes\#me unsettled.\| It just sits there,\#smiling."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I'm sure It would attack its masters\#were it to escape, as I'm sure it wants\#to finish its mission at any cost."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"There must be some way to control it.\|\#Something as powerful as that in my\#Jailhouse.\| I can just imagine it now."
+\><\c[9]\n[1]\c[0]>\#The door is locked.
+\><\c[9]\n[1]\c[0]>\#Unlocked the door.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Follow these rules when handing\#the specimen."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"\c[2]1)\c[0] Never trust the specimen.\#\c[2]2)\c[0] Always keep full length away.\#\c[2]3)\c[0] Never feed the specimen."
+\n<\c[9]\n[1]\c[0]>\#It's locked tight.
+\n<\c[9]\n[1]\c[0]>\#Unlocked the door.
+\bm[13]\>\n<\c[9]Mika\c[0]>\#You're a jerk leaving me\#back there, \n[1]!\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Mika!
+\bm[13]\>\n<\c[9]Mika\c[0]>\#That creature almost got me.
+\bm[13]\>\n<\c[9]Mika\c[0]>\#At least Anna helped me\#escape.
+\bm[13]\>\n<\c[9]Mika\c[0]>\#I shouldn't be walking on\#this ankle, \n[1].
+\bm[13]\>\n<\c[9]Mika\c[0]>\#\c[2]\>*tch*\c[0]\<\| A hero needs to rescue\#the girl sometimes.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Sorry, Mika.
+\bm[13]\>\n<\c[9]Mika\c[0]>\#You have a lot to learn,\#\n[1].
+\bm[13]\>\n<\c[9]Mika\c[0]>\#It must be,\. like,\. so hard\#being smart.
+\bm[13]\>\n<\c[9]Mika\c[0]>\#This place stinks like a\#sewer!
+\bm[13]\>\n<\c[9]Mika\c[0]>\#Are you sure the others\#even came this way?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'd assume so.\| We've checked\#most of the mansion.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I met a strange woman before.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#She told me to head\#to the \c[2]Old Building.
+\bm[13]\>\n<\c[9]Mika\c[0]>\#Old Building, huh?\| Well, I'm\#going first!
+\bm[13]\>\n<\c[9]Mika\c[0]>\#Let's go, Anna.
+\bm[14]\>\n<\c[9]Anna\c[0]>\#\c[2]\>*nods*\c[0]\<\| Sure.\| Take care,\#\n[1].
+\bm[14]\>\n<\c[9]Anna\c[0]>\#Mika's dead, \n[1].
+\bm[14]\>\n<\c[9]Anna\c[0]>\#I watched that monster rip\#her apart...
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm sorry, Anna.\| All we\#can do is keep moving.
+\bm[14]\>\n<\c[9]Anna\c[0]>\#Keep moving?\| How?\| We have\#no chance.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I met a strange woman.\|\#There's always hope.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#She said we can escape\#from the \c[2]Old Building\c[0].
+\bm[14]\>\n<\c[9]Anna\c[0]>\#I just can't stand being\#hunted down like rats.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We can't give up now.\|\#We have to find Shun!
+\bm[14]\>\n<\c[9]Anna\c[0]>\#\c[2]\>*sob*\c[0]\<\| I'm going ahead.\| I hope\#Shun is alright\..\..\..\.\|\^
+\bm[14]\>\n<\c[9]Anna\c[0]>\#Maybe we deserve this,\#\n[1].
+\bm[14]\>\n<\c[9]Anna\c[0]>\#Please\..\..\..\| be careful.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You too.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Tsukada\..\..\.. I wish you\#were still here.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You'd know what to do.
+\>We heard a rumor about a mansion\#\>on the outskirts of town...\|\|\|\|\^
+\cbm\><\c[9]\n[1]\c[0]>\#There is a key behind some sort of\#thick plastic casing. \|A \c[2]screwed on\c[0]\#plaque reads: "The Key To My Heart."
+\cbm\><\c[9]\n[1]\c[0]>\#A \c[2]Blue Gem\c[0] sits in the socket.\#There is a button here. Press it?
+Take back gem
+\cbm\><\c[9]\n[1]\c[0]>\#Took back the Blue Gem.
+\cbm\><\c[9]\n[1]\c[0]>\#A \c[2]Red Gem\c[0] sits in the socket.\#There is a button here. Press it?
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[10]\c[1] "Old Key"
+\cbm\><\c[9]\n[1]\c[0]>\#Took back the Red Gem.
+\cbm\><\c[9]\n[1]\c[0]>\#Nothing sits in the socket.\#There is a button here. Press it?
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I have no idea how to get to the key\#behind the case.\| The case appears to\#be indestructable."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This room was used as some sort of\#prayer shrine, so we simply fixed it\#up around the case."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It's peaceful and makes a great spot to\#come after a long day of work."
+\>\c[9]\n[1]:\c[0]\#These flowers look fresh...\| Is there\#someone visiting here?
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[52]\c[1] "Agrimony"
+\cbm\><\c[9]\n[1]\c[0]>\#An oil tray.\| Light it?
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from the Warden.\| It's titled\#\c[2]Oni Log #5\c[0].)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"We lost one of the gaurds today.\| The\#idiot got too close to the cage.\| I will\#never forget the look of the Oni."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"That was not even the scariest part.\|\#It seems that after some time those\#killed come back as Oni."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The change is always random, but\#we know that they are weak and still\#mortal for a short time after."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Luckily, the few people we have tested\#this on have been disposed of quickly\#before they regenerate and change."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Those government men who came here\#after granting us funding have now\#taken over the Crematorium."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"They are turning it into some kind of\#high tech Laboratory.\| I have never seen\#so much expensive equipment before."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from the Warden.\| It's titled\#\c[2]Oni Log #4\c[0].)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I never realised I had been a monster\#to my wife and dearest daughter.\| I only\#wanted to protect them from the Oni."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Something was pulling me into a void\#of darkness.\| I felt so angry all the\#time, perhaps I was overworked?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"After a discussion I took Lanoire to\#see the creature.\| It was then it said\#something that chilled me to the core."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It talked about knowing my daughter\#and all about my family. \|It even stated\#that if it wanted to escape, it could."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Me and my wife have decided to work\#together, and the first thing we will do\#is move the Oni."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It will be transfered to the deepest\#reaches of the Old Building. \|My wife\#has found a way to control it at last."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"With Lanoire on my side I feel like a\#new man, as if all my frustration and\#anger had suddenly left me."
+\cbm\><\c[9]\n[1]\c[0]>\#The clocks hands can be adjusted.\#What should it be set to?\#\c[2]Current Time:\c[0] \v[32]:0\v[20]
+\cbm\><\c[9]\n[1]\c[0]>\#The clocks hands can be adjusted.\#What should it be set to?\#\c[2]Current Time:\c[0] \v[32]:\v[20]
+Adjust big hand
+Adjust little hand
+\cbm\><\c[9]\n[1]\c[0]>\#It can't go past 12, what am I doing?
+\cbm\><\c[9]\n[1]\c[0]>\#There's no '0' o'clock, what am I doing?
+\cbm\><\c[9]\n[1]\c[0]>\#It can't go past 59, what am I doing?
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A log book of deaths. No names are\#recorded but reasons of death and\#times are here.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"14/02 06:5\c[2]3\c[0]PM\#Was tricked into checking on Oni.\#Body disposed."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"11/04 11:28AM\#Killed while transfering Oni.\#Body disposed."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"2/01 \c[2]0\c[0]2:43PM\#Got too close to the cage.\#Body disposed."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"17/06 06:4\c[2]5\c[0]AM\#Mental breakdown. Suicidal.\#Body disposed."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"19/05 03:2\c[2]1\c[0]AM\#Suicidal tendancies. Put down.\#Body disposed."
+\n[1]:\#I found the item, "Padlock Key"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[18]\c[1] "Padlock Key"
+\n[1]:\#Most of the writing has been ruined by\#water damage, but there is one part\#that stands out.
+\n[1]:\#The costs of running the Jailhouse are\#too expensive.\| I need to come up with a\#solution.
+\n[1]:\#The law has failed me time and time\#again as criminals are not sentanced\#to death, but instead left to rot here.
+\n[1]:\#My cells are already over capacity and\#funding from the government is barely\#enough to stay afloat.
+\n[1]:\#I love my precious Jailhouse.\| I must do\#something to preserve her history and\#power, but what?
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from the Warden.\| It's titled\#\c[2]Oni Log #1\c[0].)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The calling was a success.\| As the beast\#formed a mass out of nothing, we managed\#to quickly restrain it."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This creature... it is the most wonderful\#thing I have ever seen.\| This will be the\#answer in punishing those sinners."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It took a few days but the mass has\#formed a complete body.\| How would I\#be able to restrain such power?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Somehow the key to the Annex keeps on\#dissapearing.\| There are spare keys all\#around the place, but we can't get them."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I could swear I set one next to my\#lunch box and it dissapeared.\| The\#ladder padlock key is gone, too."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(This is only half of the text about\#sealing the Oni.\| Let's see what it\#says.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I have \c[2]split\c[0] the ritual and hidden it\#in order to maintain its secrecy.\| If\#you're reading this, we are all dead."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"After reciting the words from the first\#half of my translated text, here is how\#to survive the ritual."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The spell works by using the Oni's own\#magic against it, with your body acting\#as a catalyst."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The words must be spoken in the same\#area that the beast first took form, all\#while being face to face with it."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"If anyone has suffered through its\#pshycic powers, being near them and\#not the monster will also work."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The ritual sealing spell will create a\#psychic link between your own mind and\#that of the Oni's"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"According to the texts, your soul will\#exsist in a gateway between dimensions\#known as \c[2]The Inbetween\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"In the Inbetween, you must never touch\#the Oni, for it can tear the soul from\#the body, killing the catalyst."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The trial is said to contain a battle\#of the mind, so \c[2]a strong mind is a must\c[0].\#\|It is here you must face your demons."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Sentinelese believe that weak minds\#can not complete the ritual, and so they\#were very hisitant to share the ritual."
+\cbm\><\c[9]\n[1]\c[0]>\#A lifelike doll. \|One of its eyes are\#missing.
+Take it
+Leave it alone
+\cbm\><\c[9]\n[1]\c[0]>\#A lifelike doll.
+\cbm\><\c[9]\n[1]\c[0]>\#A picture of a doll missing its head.\|\#It has an indent where the head should\#be.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[23]\c[1] "Annex Basement Key"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(This looks like a suicide note.\| Someone\#has tampered with it.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The gaurds wouldn't let us leave, we\#were trapped here while the *** took\#everyone away."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I was only hired to make dolls for the\#Wardens daughter, Rose.\| What the hell\#did I get into?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"They won't get me, not if I end it\#first.\| If you're reading this Anthony,\#I'm sorry I won't meet your family."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I don't know if I'm the last one left,\#but I'll sure as hell die on my terms,\#not that things."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(This chemistry set has a nice set of\#scales.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(I can measure the \c[2]Gun Powder's\c[0]\#weight here.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#\c[2]Gun Powder on tray -\c[0] \v[122]\#\c[5]Weights on tray -\c[0] \v[123]g
+Add Weight
+Remove Weights
+Test Scales
+Remove Gun Powder
+1kg
+0.5g
+0.25g
+0.15g
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(Hmmm\..\..\..\. the powder and the\#weights seem to be the same.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(Hmmm\..\..\..\. the weights seem\#to be heavier.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(Hmmm\..\..\..\. the powder seems\#to be heavier than the weights.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(This is it.\| The perfect amount\#of gun powder.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(I should add some gun powder.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(I should add some weight.)
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[54]\c[1] "Powder"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[19]\c[1] "Light Bulb"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(An old diary is here.\| All the text has\#faded but one entry stands out.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I swear ever since he summoned that\#thing the Warden has lost his mind.\|\#Jeff has been here for two months."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Apparently the gaurds won't let him\#leave.\| I am only here to monitor the\#Jailhouse finances."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Ever since I caught a peek of that\#thing, I've felt like the gaurds have\#never stopped watching me."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Do they think anyone would actually\#believe the story about the blue demon\#if I told them?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(An old diary is here, taped under the\#desk.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I don't know what has happened but the\#gaurds have gone insane.\| People are\#being shot, even attacking each other."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I haven't left this room for close to a\#week.\| What the hell is going on around\#here?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Most of the carnage has seemed to die\#down. \|I need to make for the front of\#the mansion and leave."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Oh god, there are bodies everywhere.\| I\#could swear I even saw one being taken\#away.\| Did the creature get out?"
+\cbm\><\c[9]\n[1]\c[0]>\#An old looking Dumbwaiter.
+Open
+Push button
+Cancel
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[24]\c[1] "Guest Room Key"
+\cbm\><\c[9]\n[1]\c[0]>\#The Dumbwaiter isn't on this floor.
+\cbm\><\c[9]\n[1]\c[0]>\#Seems to be broken.
+\cbm\><\c[9]\n[1]\c[0]>\#There's nothing else inside.
+\cbm\><\c[9]\n[1]\c[0]>\#A fireplace.
+\cbm\><\c[9]\n[1]\c[0]>\#The hot flames are dancing due to a\#\c[2]draft above\c[0].
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[22]\c[1] "Yellow Gem"
+\n<\c[9]\n[1]\c[0]>\#The hot flames are dancing due to a\#\c[2]draft above\c[0].
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from the Warden.\| It's titled\#\c[2]Oni Log #6\c[0].)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"My wife has been spending more time\#with the Oni. \|It seems women are able\#to interact more calmly with it."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It told her how much it is hurting\#to keep being locked up, and that it\#can see the true kindness inside her.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Since it started talking, it seems to\#rely on using a type of mimicry, sounds\#it has picked up to form words."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I only gave my wife access so she\#would share the secret of controlling\#the Oni with me, a great trade."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The beast can be controlled against\#its will using an ancient talisman.\|\#My wife is to thank for that treasure."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"She had retrieved it from an isolated\#tribe she spent time with, and I've had\#our spiritualists studying its effects."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"My wife is against the idea of using\#it, but she is the one who found out\#about it in the first place."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"My thoughts have started troubling me\#again, filling me with bursts of anger,\#but why?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The power is finally in my hands and\#I will NOT let it slip away from me.\| I\#swear she's gone soft for that thing."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"What the hell happened to this place\#30 years ago?\| Who burned down the\#Old Building?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Warden probably tried to cover\#his tracks but was too overcome with\#dementia, the poor bastard."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Not a single body was found, yet there\#were at least twenty people employed\#here."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"All their records and history had also\#vanished without a trace, maybe it was\#a cover up?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Maye we just aren't looking hard\#enough.\| I'm sure there are notes\#or something around here."
+\cbm\><\c[9]\n[1]\c[0]>\#A lifelike doll. \|Both its eyes are\#missing.
+\cbm\><\c[9]\n[1]\c[0]>\#A lifelike doll. \|A \c[2]Yellow Gem\c[0] is\#inserted.
+\cbm\><\c[9]\n[1]\c[0]>\#A lifelike doll. \|A \c[2]Red Gem\c[0] is\#inserted.
+\cbm\><\c[9]\n[1]\c[0]>\#A lifelike doll. \|\c[2]Yellow\c[0] and \c[2]Red\c[0] gems\#are inserted.
+\cbm\><\c[9]\n[1]\c[0]>\#The head can be pulled off.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[21]\c[1] "Doll Head"
+\cbm\><\c[9]\n[1]\c[0]>\#A doll with no head.
+\cbm\><\c[9]\n[1]\c[0]>\#A lifelike doll. \|A \c[2]Bulb\c[0] is attached in\#place of its head.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Things can unhinge when your vision\#is at its darkest, but there will\#always be light."
+\bm[18]\>\n<\c[9]Anna\c[0]>\#We're going to die here,\#aren't we, \n[1]?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We can't give up.\| the\#\c[2]Old Building\c[0] isn't far.
+\bm[18]\>\n<\c[9]Anna\c[0]>\#I hope Shun is alright.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm sure we'll find him.
+\bm[18]\>\n<\c[9]Anna\c[0]>\#I could never forgive myself\#if he got hurt.
+\bm[18]\>\n<\c[9]Anna\c[0]>\#Please be careful, \n[1].
+\bm[20]\>\n<\c[9]Mika\c[0]>\#This place stinks.\| It's\#filled with roaches, too.
+\bm[20]\>\n<\c[9]Mika\c[0]>\#My ankle is killing me.\|\#Thanks for nothing.
+\bm[18]\>\n<\c[9]Anna\c[0]>\#We can leave soon, Mika.
+\bm[20]\>\n<\c[9]Mika\c[0]>\#I hope so, I want to\#catch up to Takuro.
+\bm[20]\>\n<\c[9]Mika\c[0]>\#If only Anna was still\#here. \|I miss her.
+\bm[20]\>\n<\c[9]Mika\c[0]>\#Hurry up and find Takuro\#so we can get out of here.
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#AH!\|\|\^
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#Oh, \n[1].\| It's\#you.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Glad to see you're alright,\#Takeshi.
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#This was all my fault.
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#That thing will find and\#kill all of us.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You can't blame yourself.
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#You don't get it, \n[1]!\|\#I chased Shun in here!
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#This is all my fault!\|\#we're going to die!
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#\c[2]\>*sniff*\c[0]\<\| Am I...\. a bad person?
+Comfort Him
+Leave Him
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takeshi, pull yourself together.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What happened wasn't your\#fault.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We had no idea that\#thing was real.
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#\c[2] *sob*\c[0]\| I'm scared, \n[1].\|\#I'm always so scared\..\..\..
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Keep it together.\| We need\#to find Shun.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You're no good to anyone\#if you keep worrying!
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#I'm sorry.\| I never wanted any\#of this to happen.
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#\c[2]\>*sob*\c[0]\<\| I need some air\..\..\..\#\}It was just a joke, right?
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#\}Takuro said it was just\#a joke.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#(Takeshi seemed down.\| Maybe I\#should have talked to him.)
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#I'm sorry.\| I never wanted\#any of this to happen.
+\bm[1]\>\n<\c[9]Takeshi\c[0]>\#\..\..\.. Why is it after us?\|\#I just want to go home.
+\cbm\><\c[9]\n[1]\c[0]>\#A candlestick. \|Light it?
+\n<\c[9]\n[1]\c[0]>\#The doors appear to be stuck.
+\n<\c[9]\n[1]\c[0]>\#The Dumbwaiter came back.
+\n<\c[9]\n[1]\c[0]>\#The Dumbwaiter was sent up.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[25]\c[1] "Rotten Meat"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A dusty journal sticks out on the shelf.\|\#Most of the pages are unreadable, except\#for a few.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It's been *** days since the ***\#escaped.\| We've managed to hold it\#off in the Kitchen."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Ammunition is low and several of the\#staff have attacked each other in a\#panic."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It seems to have put a hold on all of\#the exits, they just refuse to open,\#like they are stuck by magic."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"A few have almost escaped via the \c[2]Old\#Building\c[0].\| Ever since the fire, the ***\#*** seems weaker in that area."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The last of us have no choice but to\#try.\| First break of dawn we make our\#way to the \c[2]Old Building\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Chef is a nosey bastard.\| We go\#without him, as we can't have ****\#******** slip out to the ******."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A memoire of the Chefs time at the\#Annex.\| Looks like it was tampered\#with.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"As the Chef I know almost everyone in\#this place.\| My two favorite people to\#cook for are Anthony and Jeff."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Anthony is a stock broker and Jeff is\#a doll maker.\| Those two seem like great\#friends, but what happened to Aaron?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I heard that he got too close to an\#exotic animal they were transporting\#and is in the Hospital."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I haven't left the kitchen for nearly a\#week while all this commotion was going\#on outside.\| What's going on?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Several of the Jailhouse gaurds have\#barricaded themselves in here.\| Plenty\#of food but what has them so on edge?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I woke up today to find the last few\#gaurds had left me here, now the Annex\#is dead silent."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It has been at least a month locked in\#the kitchen.\| Food is running very low!\|\#I'm so hungry!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I thank the food for keeping me alive\#this long, but it is starting to spoil.\|\#I have tried to leave but to no avail."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"What was going on in this place?\| ****\#has been chasing me and **** ** ****\#infected the Annex roaches."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"They left me alone once I gave them\#some \c[2]rotten meat\c[0] from the \c[2]fridge\c[0], but\#I'm getting so hungry myself!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I'm getting too weak to move.\| This may\#be it for me.\| I can hear *** ********\#trying to get in."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The cost and time to try and repair\#this place is huge!\| It would be better\#to tear it down!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Weird stuff keeps happening in this\#place.\| I swear something is following\#me."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"According to these old notes left 30\#years ago, it seems maybe a riot was\#the cause of all the disappearances."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"That still dosen't explain how not a\#single body was found after several\#searches.\| Not even one."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I'm thinking there's something more to\#this whole ordeal.\| Maybe I should get\#the hell out of here."
+\cbm\><\c[9]\n[1]\c[0]>\#Nothing happened.\| It's held on with\#\c[2]star-shaped screws\c[0], someone must\#have been tampering with it.
+\cbm\><\c[9]\n[1]\c[0]>\#The power is restored.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[26]\c[1] "Picture Book"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It seems the Oni has somehow escaped.\|\#This place is finished, and so are the\#people here."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The ritual that summoned the creature\#here also had rules regarding what it\#'protects and seals."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Once released from its holdings, the\#monster will place a powerful curse on\#the area it was called to protect."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This will make the monster a mindless\#beast that forces it to only dedicate on\#protecting the area."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It's a type of magical barrier that\#stops anyone from leaving.\| They can\#enter but never leave."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Warden knew this but still summoned\#that creature to our world.\| For a time,\#he found a way to control it."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"An ancient talisman that his wife had\#bought back from the Sentinelese tribe.\|\#It could control the Oni."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Now that it's out, escape is not going\#to happen, or at least that's what I\#assumed."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"If you're reading this it means you're\#looking for an escape.\| I can tell you,\#head for the \c[2]Old Building\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Old Building was damaged by a large\#fire just before the Oni escaped.\| The\#curse of the Oni has one weakness."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"If an area it was supposed to protect\#is damaged before it casts the curse,\#then it deems that area a failure."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The power of the curse is weak there,\#and escape may just be possible!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I will not run from the Oni.\| I deserve\#to perish after the experiments we tried\#to conduct here."
+\bm[26]\>\n<\c[9]Takeshi\c[0]>\#AH!\|\|\^
+\bm[26]\>\n<\c[9]Takeshi\c[0]>\#Oh, \n[1].\| Stop\#scaring me like that!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takeshi!\| How'd you get\#in here?
+\bm[26]\>\n<\c[9]Takeshi\c[0]>\#Takuro picked the lock,\#then he left me here.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We'd better go find him.
+\bm[26]\>\n<\c[9]Takeshi\c[0]>\#Listen, \n[1].\| Maybe we\#should just leave.
+\bm[26]\>\n<\c[9]Takeshi\c[0]>\#Let's get out of here\#without Takuro.
+\bm[26]\>\n<\c[9]Takeshi\c[0]>\#This place is changing him.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We can't leave anyone behind,\#not even Takuro.
+\bm[26]\>\n<\c[9]Takeshi\c[0]>\#I'm staying away from that\#psycho.\| You should too.
+\bm[26]\>\n<\c[9]Takeshi\c[0]>\#Please be careful.
+\bm[11]\>\n<\c[9]Takuro\c[0]>\#Bring it on!\| Die like\#the rest of ya friends!\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro?
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[28]\c[1] "Red Key"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"My research has found that any Oni\#creature, just after transforming, can\#be restrained or killed."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The change can happen instantly and\#the invulnerability period is always\#random."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This has been most useful in discarding\#my experiments.\| Ones that were not killed\#have been locked up in the \c[2]Riot Cage\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Studying the Oni is very tiring, but\#the medical properties of it are so\#amazing!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It can heal from wounds almost\#instantly.\| Its DNA contains an\#unknown particle chromosome."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This DNA is very toxic, and seems to\#have the ability to resurrect the dead,\#or kill the living very quickly."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It seems to only be admitted via bite,\#and it has shown that both the Oni and\#its 'hosts' can do this."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Upon resurrection, the infected host\#will change into an Oni type being, its\#DNA completely rewritten in moments."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I have noticed that sometimes one of\#these infected specimens can inherit\#some of its original traits."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"These traits are mainly focused towards\#appearance if their will to remain human\#is high enough."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Despite these changes, no memories\#have remained from all of our test\#subjects."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Any living thing can be infected by Oni\#blood, but it seems humans earn the\#closest powers of the Oni itself."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Only humans have shown the ability to\#keep the Oni's super regeneration and\#immortality, all other species do not."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"If I could isolate this infected strand\#of the human/Oni DNA, I could most\#likely extract it."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This research could be the start of a\#serum that could heal any wound, or\#even create super soldiers,"
+\cbm\><\c[9]\n[1]\c[0]>\#It's locked tight.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I don't know how, but the Oni has got\#out.\| I know the best out of everyone we\#are finished."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I left my assistant and hid down\#here.\| Her screams were too much\#to bare."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I can't believe I locked myself in\#here and forgot to grab the key from\#above.\| I'm such an idiot."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The fire is keeping me warm as it\#runs into a private gas line, but\#I'm getting so hungry here."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"To have my life end like this, right\#when I was so close to making my\#Oni Super Soldiers."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"If anyone is reading this, you can\#try and escape out of the \c[2]Old Building\c[0].\#\|It was damaged by fire."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"According to the laws of its magical\#powers, it deems damaged areas it\#has to gaurd a failure."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"So the magic keeping everyone\#contained is weaker there."
+\cbm\><\c[9]\n[1]\c[0]>\#Press the button?
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[32]\c[1] "Metal Stick"
+\bm[20]\>\n<\c[9]Takuro\c[0]>\#Thanks for the help, I\#guess.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You should be more greatful.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Mika's now one of those\#things, Takuro.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Mika's worried sick about you.\#\|Let's head back.
+\bm[20]\>\n<\c[9]Takuro\c[0]>\#I'm fine by myself, I\#have been all my life.
+\bm[20]\>\n<\c[9]Takuro\c[0]>\#I don't need ya pity.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takeshi died for that crap\#in your hand!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#He killed himself, Takuro!\#\|Don't you care?
+\bm[20]\>\n<\c[9]Takuro\c[0]>\#He\..\..\..\| was a coward, he\#deserved to die here.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Also, someone has to look\#after Takeshi.
+\bm[20]\>\n<\c[9]Takuro\c[0]>\#Smell ya later, \n[1].
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro, please\..\..\..\| just destroy\#the serum.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm sorry Takuro\..\..\..\|you did\#the right thing.
+\bm[20]\>\n<\c[9]Takuro\c[0]>\#\}Ya will be\..\..\..\|\^
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item,\i[30]\c[1] "Vinegar"
+\cbm\><\c[9]\n[1]\c[0]>\#A very old computer.\| It seems I can\#either load the inserted data disk or\#eject it.
+Load Disk
+Eject Disk
+Log 1
+Log 2
+Log 3
+Log 4
+\cbm\><\c[9]\n[1]\c[0]>\#The Oni has provided some much needed\#motivation around here.\| The medical\#and autopsy rooms are now labs.
+\cbm\><\c[9]\n[1]\c[0]>\#The chief scientist hired amongst us\#wants to try and harness the power of\#the Oni, find out what makes it tick.
+\cbm\><\c[9]\n[1]\c[0]>\#Several tests will be performed, which\#will include a study of the species as\#well as analyzing its DNA.
+\cbm\><\c[9]\n[1]\c[0]>\#We have managed to study the Oni and\#its DNA as best we can.\| It seems only\#humans that get infected become like it.
+\cbm\><\c[9]\n[1]\c[0]>\#Humans are so far the only species\#we have tested that keep the unique\#trait of rapid healing.
+\cbm\><\c[9]\n[1]\c[0]>\#This genome is what we are now going\#to collect.\| The healing and immense\#power must be extracted.
+\cbm\><\c[9]\n[1]\c[0]>\#We have done it!\| We have managed to\#isolate the regeneration and strength\#of the Oni's DNA.
+\cbm\><\c[9]\n[1]\c[0]>\#The only down side is that the other\#Oni traits are still there.\| all of\#the subjects exhibit the same signs.
+\cbm\><\c[9]\n[1]\c[0]>\#Once they change into Oni creatures,\#they act like the primary Oni, erasing\#all memory of their past existence.
+\cbm\><\c[9]\n[1]\c[0]>\#This study of the Oni over the last few\#months has almost turned me mad.\| Unlike\#our team leader, I do not seek power.
+\cbm\><\c[9]\n[1]\c[0]>\#I want the healing powers mostly, the\#world needs them.\| Imagine having the\#ability to cure anything in seconds.
+\cbm\><\c[9]\n[1]\c[0]>\#Cancer, Alzheimer's disease, anything!\|\#Disease could be a thing of the past,\#people would never be sick again!
+\cbm\><\c[9]\n[1]\c[0]>\#The other doctors only see the DNA as\#a tool of war, to make 'super soldiers'\#in case of another World War.
+\cbm\><\c[9]\n[1]\c[0]>\#If anything, we should be researching\#into heavier nuclear capabilities.\| I\#heard the Russians could fire first.
+\cbm\><\c[9]\n[1]\c[0]>\#The Oni had managed to feed on roaches.\|\#This in turn created 'Roach Oni's'.\| The\#filthy things are everywhere!
+\cbm\><\c[9]\n[1]\c[0]>\#One thing I've noticed is that they\#have kept some of their roach behavior.\|\#This could be the missing key!
+\cbm\><\c[9]\n[1]\c[0]>\#The Roach Oni are the only specimen\#we know to keep their baser instincts,\#maybe they even have memories!
+\cbm\><\c[9]\n[1]\c[0]>\#These things must be studied to find\#out what causes this change compared\#to everything else.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \c[1]"Disk"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[29]\c[1] "Disk"
+\cbm\><\c[9]\n[1]\c[0]>\#A very old computer.\| It seems I can't\#do anything unless a \c[2]Disk\c[0] is inserted.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Notice to all Lab staff:\#Tests of the serum will begin later\#today in \c[2]Lab 2."
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[38]\c[1] "Relic B"
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#\}This vial.\| It will change\#everything!\{
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#I'm gonna be stinking rich!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#\n[1]!\| W\..\..\..\| what are ya\#doing here?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I could ask you the\#same question.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Ya don't understand.\| This\#serum, it's one of a kind!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#It can give ya the\#monsters powers!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Do ya realise what something\#like this is worth?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#More than your friends\#lives, apparently.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Ya don't get it!\| This\#can fix my life!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#That stuff is dangerous!\| It's\#too risky to have!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#I'm not stupid, \n[1].\| I\#can control it!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#This ancient talisman was\#my grandfather's.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#No one believed his story,\#but I did!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Owner of the greatest Jail\#house in the country!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Reduced to a local fool\#and thrown in an asylum!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#So this is just some sick\#game to you?\| What about us?
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#I really thought the Oni\#wouldn't be awake.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#It was supposed to be\#quick!\| In and out.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What about Shun?\| Was he\#part of all of this?
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#S...\| Shun!?\| That...\| that was\#Takeshi's fault!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#That idiot chased him in\#here, not me.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Some set backs,\. yes,\. but\#it worked out in the end!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#My grandfather is the real\#villain here!\| Not me!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#He ignored us and treated\#us like garbage.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#We were his dirty secret\#he kept hidden.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#His second family!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#My mother was stuck nursing\#him when he got dementia.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#We knew he hated us.\| He\#never loved my mom.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#We lived in the slums while he\#had millions in his pockets!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#This is my way of taking\#revenge on that bastard!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You can't leave with that\#serum, Takuro.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Ya can't stop me.\| It's my\#right! \|My legacy!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#These roaches are everywhere.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Shit!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#\n[1]!\| Help me!\| I'll\#make it worth it.
+Help Takuro
+Leave Takuro
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I hope I don't regret this.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Now, Takuro!\| Move it!\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm sorry, Takuro.\| You used\#us to get inside.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You can rot here.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Ya think you're better than\#me!?
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Ya have no clue what\#it's like!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#You can't leave me here,\#\n[1]!
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#If you do, you're no better\#than me.\| NO BETTER!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Go to hell, Takuro.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#\n[1]!?\| Help me!!\|\|\#\}\n[1]?\|\^
+\bm[23]N\{\.o\.O\.\}o\.O\.o\.\{O\.o\.O\}o\.O!\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#\..\..\..\|\^
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The serum test was scheduled today\#but apparently something happened\#with the Oni, did it escape?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Nathan says the rumors are true,\#but how did that even happen?\| The\#gaurds are going balistic."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Apparently no one is allowed to\#leave.\| A few people have already\#been shot just for trying."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Recently the warden's daughter has\#been hanging out in the lab.\| I don't\#mind her, but she creeps me out."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I've noticed possible homicidal\#tendencies. I've tried to tell the\#warden but he just won't listen."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The girl is very lonely locked up\#in the mansion, she has no friends\#her age, either."
+\bm[5]\>\n<\c[9]Shun\c[0]>\#Let's split up and see\#where the key goes.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Are you sure?\| We might\#be safer in numbers.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#I'll be fine, \n[1].\| I\#can look after myself.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Of course.\| Be careful.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\c[2]\>*nods*\|\c[0]\< You too.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm sorry about Anna, Shun.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\c[2]\>*sob*\c[0]\<\| Anna\..\..\.. I can't believe\#she's gone...
+\bm[5]\>\n<\c[9]Shun\c[0]>\#It's dark down here, be\#careful not to get lost.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Notice to all staff: The Catacombs are\#for the delivery of very volatile and\#toxic chemicals only."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Using the docks for personal use is\#strictly forbidden.\| The caverns are\#also extremely dark."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Our transport team are advised to \c[2]light\#the candles \c[0]along their way so they do\#not get lost."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I thought I'd be safe from the Oni\#inside the catacombs.\| I was going\#to take the boat and escape."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I was stupid and tripped in the dark,\#broke my damn ankle.\| The look in Jim's\#eyes as he left me..."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"We were going to escape through the\#docks secret delivery route together.\|\#Why didn't he help me?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I left Bill back there while I made my\#escape, only to find that the gate for\#the port collapsed."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I killed my friend, maybe this is karma.\|\#There is no point going back, the Oni\#has already killed everyone."
+\bm[0]\>\n<\c[9]Shun\c[0]>\#\..\..\.. Did you find anything?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#A key.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[34]\c[1] "Back Door Key"
+\bm[0]\>\n<\c[9]Shun\c[0]>\#I wonder where it goes.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Let's head back.\| I doubt there's\#anything else here.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Shun!\|\^
+\bm[5]\>\n<\c[9]Shun\c[0]>\#Ugggh\..\..\.. my head.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Are you alright?\| How did\#you end up in here?
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\..\..\..\| I don't remember.\| Where\#are we?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#The Catacombs to the Annex\#of the Jailhouse.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#My head is killing me.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It's not safe here.\| The\#monster exists.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\..\..\..It exists?\| Anna\..\..\..\|\#is she\..\..\..\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#She's fine, worried sick\#about you.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#I'm glad to have her as a\#friend, if she was killed\..\..\..\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Try not to think about it.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I need to check the catacombs,\#there may be something here.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#I'm going with you, I really\#don't like this place.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Sure.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm sorry, Shun.\| She was the\#first of us to get caught.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#It's all my fault.\| She's dead\#because of me\..\..\..
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We had no idea the monster\#exsisted.\| It wasn't your fault.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\c[2]\>*sob*\c[0]\<\| Anna\..\..\..
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I need to check the catacombs,\#there may be something there.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We should go together.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\c[2]*sob*\|\c[0] Let's just hurry and\#get it over with.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm sorry, Shun.
+\bm[0]\>\n<\c[9]Shun\c[0]>\#\..\..\..\. Of course the exit's\#collapsed, now what?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We still have to find where\#this key goes.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I was told we can escape from\#the \c[2]Old Building\c[0].
+\bm[0]\>\n<\c[9]Shun\c[0]>\#Old Building?\| \>\c[2]*nods*\c[0]\<\| Let's get\#going then.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(This smells like \c[2]Gun Powder\c[0].)
+Take some
+Nevermind
+\cbm\><\c[9]\n[1]\c[0]>\#Probably best to leave it alone.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[55]\c[1] "Gun Powder"
+\bm[6]\>\n<\c[9]Shun\c[0]>\#I'm glad Anna's safe.
+\bm[6]\>\n<\c[9]Shun\c[0]>\#This way is blocked.\| Maybe\#there's a way to open it?
+\bm[6]\>\n<\c[9]Shun\c[0]>\#You better think of something\#before that thing finds us.
+\bm[6]\>\n<\c[9]Shun\c[0]>\#I can't believe Anna's dead\..\..\..\|\^
+\bm[6]\>\n<\c[9]Shun\c[0]>\#We're all going to die\#here...
+\bm[10]\>\n<\c[9]Anna\c[0]>\#You found Shun.\|\#Thank you, \n[1].
+\bm[11]\>\n<\c[9]Mika\c[0]>\#Good, we found Shun.\| Can\#we hurry up and find Takuro?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Something tells me he\#won't be showing up.
+\bm[11]\>\n<\c[9]Mika\c[0]>\#What do you mean?\| Whatever,\#just hurry before I get sick.
+\bm[13]\>\n<\c[9]Takeshi\c[0]>\#H...hey...\n[1].
+\bm[19]\>\n<\c[9]Anna\c[0]>\#I'm sorry, Mika, I can't\#ease the pain.
+\bm[11]\>\n<\c[9]Mika\c[0]>\#This\..\..\.. this is just my\#l\..\..\.. luck.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This place is getting to us all.\| We\#have had trouble getting the front\#door open several times."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"We keep seeing things zoom by, is this\#place haunted?\| The \c[2]Old Building\c[0] needs\#to be torn down!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The fire happened years ago, but it has\#never stopped billowing smoke and dust."
+\n<\c[9]\n[1]\c[0]>\#A well. It looks deep.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#It won't open.\| The door has been\#welded shut.
+\cbm\><\c[9]\n[1]\c[0]>\#Inserted \c[2]Relic A\c[0].
+\cbm\><\c[9]\n[1]\c[0]>\#Inserted \c[2]Relic B\c[0].
+\cbm\>\n<\c[9]\n[1]\c[0]>\#How wonderful is \c[2]Death\c[0],\#Death, and his brother \c[2]Sleep\c[0]!\#One, pale as yonder waning moon
+\cbm\>\n<\c[9]\n[1]\c[0]>\#With lips of lurid blue;\#The other, rosy as the morn\#When throned on oceanâs wave
+\cbm\>\n<\c[9]\n[1]\c[0]>\#It blushes oâer the world;\#Yet both so passing wonderful!
+\cbm\>\n<\c[9]\n[1]\c[0]>\#Something unlocked!
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[35]\c[1] "Rope"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[36]\c[1] "Trowel"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[37]\c[1] "Relic A"
+\bm[8]\>\n<\c[9]???\c[0]>\#I'm surprised you're still\#alive.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Who are you?
+\bm[8]\>\n<\c[9]???\c[0]>\#That's not important, you\#need to listen!
+\bm[8]\>\n<\c[9]???\c[0]>\#Find the three \c[2]Blue Keys\c[0],\#only they can open the exit.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Three \c[2]Blue Keys\c[0]?\| \c[2]*nod*\c[0]\#\|got it.
+\bm[8]\>\n<\c[9]???\c[0]>\#Your friends mind will soon\#be controlled, please hurry.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You mean Takuro?\| Wait!\|\#Come back!
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Poor Rose, what the Warden is doing\#to her is just unforgivable.\| She is\#constantly abused verbally."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Ever since her mother left, she has\#been speaking to the creature.\| Her\#father had recently found out, too."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"He's a changed man, he acts hostile\#towards everyone now and obsesses\#over punishing the 'sinners'"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"He's been sealing the girl in the room\#and covering it so she can't get out.\|\#I hear her crying all the time."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I don't blame her talking to the Oni,\#the poor girl just lost her mother, they\#are both prisoners in here."
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[45]\c[1] "Warped Key"
+\n[1]:\#I found the item, "Jail Cell Key"
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#A cat?
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It was hiding in the walls but there\#was no mistaking it, a second Oni has\#indeed been summoned with the first."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I need to catch it and throw it in with\#the other experiments, but this one is\#incredibly violent."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Unlike the Oni I summoned, this one has\#no ability to speak and seems more like\#a purely predatory and violent being."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I've caught it eating the stray cat or\#two that wonders in here, only for it to\#go paper thin and back into the walls."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This confirms our notion that there are\#many kinds of Oni in their own dimension,\#some civilized and others feral."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Sadly once one of my workers change\#into an Oni, we have no choice but to\#lock it up."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Once any normal creature changes into\#an Oni, there is a small window in which\#they can be killed."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"If they are not disposed of, they will\#gain the Oni's power of immortality.\|\#Only humans inherit this ability."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Our \c[2]Riot Cage\c[0] is becoming quite full.\|\#We will have to think of better ways to\#dispose of these creatures."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from the Warden.\| It's titled\#\c[2]Oni Log #10\c[0].)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Oni somehow escaped so I'll note\#this down.\| Once it escaped I felt like a\#new man, like a weight lifted from me."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"When it was trapped it I felt horrible.\|\#Could the Oni have the ability to force\#people to its will?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"What even happened to my wife?\| I can't\#remember a thing about her.\| When the Oni\#was trapped, I felt so angry."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Can the Oni bend others to its will?\|\#Our tests were leading towards it having\#some pshycic abilities."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This place is lost, and I have to get\#my daughter to safety.\| If you ever read\#this, never trust the Oni's lies."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The talisman is not without its own\#problems.\| We believe that the Oni has\#psychic powers."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Over time, its powers could potentially\#wear down the effect of the talisman.\| If\#not careful, this could be dangerous."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Oni may have the ability to reverse\#the effects of the talisman, controlling\#the host instead of them controlling it."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It's no danger now, but in several years\#this could prove a problem and the entire\#talisman would need replacing."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The warden has lost his mind.\| He has\#closed off all of the basement, only\#allowing a few of us down there."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"He's turned the whole basement into\#some kind of shrine, which he prays at\#constantly."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Anyone who goes down there is forced\#to wear old robes and never speak out\#of line.\| The warden is a nutcase."
+\cbm\><\c[9]\n[1]\c[0]>\#A painting. \|It's fixed to the wall.
+\cbm\><\c[9]\n[1]\c[0]>\#A painting. It can be moved.
+Move
+Never Mind
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[44]\c[2] "Blue Key"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I was locked in here for talking to Mr.\#Oni.\| He is my only friend though, what\#else am I meant to do?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Sometimes I can spend a week in here\#with no food, it makes me very sad.\| Mr\#Oni came up with a plan for me."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"He told me through my head that burning\#down the building will make daddy notice\#me again!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Mr. Oni only ever talks to my head.\|\#Ever since mommy left I've been very\#sad, I have no one who understands me!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Mr. Oni wanted me to open his cage, but\#I know how to start a fire!\| I don't need\#his help for that!"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[39]\c[1] "Die"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The fire didn't work, but it made my\#cunny feel really nice.\| Daddy is still\#ignoring me though!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I promised that I would free Mr. Oni\#and friends keep their promises!\| He\#wouldn't hurt me, would he?"
+\bm[12]\>\n<\c[9]Anna\c[0]>\#\n[1], Takuro didn't\#look like himself!
+\bm[12]\>\n<\c[9]Anna\c[0]>\#He took Shun below!\| He\#looked so angry...
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Below?
+\bm[12]\>\n<\c[9]Anna\c[0]>\#The basement is hidden!\|\#I couldn't follow.
+\bm[12]\>\n<\c[9]Anna\c[0]>\#The entrance closed on me.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'll see what I can do.\|\#(What is Takuro up to?)
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro's alive?\| Wait, Below?
+\bm[12]\>\n<\c[9]Mika\c[0]>\#\n[1], Takuro is out\#of his mind!
+\bm[12]\>\n<\c[9]Mika\c[0]>\#He dragged Shun and\#went downstairs.
+\bm[12]\>\n<\c[9]Mika\c[0]>\#I was, like, totally scared!\|\#He's flipped his lid!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Downstairs?\| How?
+\bm[12]\>\n<\c[9]Mika\c[0]>\#I don't know.\| He pushed\#something on the pews.
+\bm[12]\>\n<\c[9]Mika\c[0]>\#Please help Takuro.\| I'm\#scared he's lost it.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro's still alive?\| Wait,\#downstairs?
+\bm[12]\>\n<\c[9]Takeshi\c[0]>\#\n[1], you've got to\#help Shun!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What happened?
+\bm[12]\>\n<\c[9]Takeshi\c[0]>\#Takuro dragged him by his\#hair! \|He took him below!
+\bm[12]\>\n<\c[9]Takeshi\c[0]>\#Something on the pews, man.\|\#Switches or something!
+\bm[12]\>\n<\c[9]Takeshi\c[0]>\#This place\..\..\..\. it's making\#him crazy.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Of course he's still alive.\#\|Wait, below?
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#Hey, \n[1].\| Glad to\#see you're safe.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro!
+\bm[11]\>\n<\c[9]Shun\c[0]>\#\n[1]!\| Help me!\|\^
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#Quiet!\| Serums gone but\#I still have \c[2]this\c[0].
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#The talisman!
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#With this I can control the\#Oni! \|It's very useful.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Let go of Shun.\| He's\#done nothing to you.
+\bm[11]\>\n<\c[9]Shun\c[0]>\#uggggghh\..\..\..\. my arm.\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro\..\..\..\.\|\^
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#Not another step, \n[1]!
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#Come look for us in\#the basement.
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#Bet ya enjoyed leaving me\#to those roaches.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It wasn't like that.
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#Of all the people to back\#stab me, it had to be you!
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#I still have the serum!\|\#I win!
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#Come to the basement if\#ya wanna save Shun!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro, this isn't you.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Dammit!\| I have to save\#Shun!
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"As requested, the basement is now\#home to the Oni.\| We have covered\#the entrance well."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It requires \c[2]switches\c[0] on the seats\#to be pushed in a \c[2]certain order\c[0],\#simply genius!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"There is a clue for remembering the\#code sequence in the \c[2]1F Records Room\c[0],\#should you ever need to remember."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"So do not fear, for I am with you; do\#not be dismayed, for I am your God. I\#will strengthen you and help you;"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I will uphold you with my righteous\#right hand.\#~Isaiah 41:10"
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[40]\c[1] "Hook"
+\bm[33]\>\n<\c[9]Anna\c[0]>\#I wanted to pray here, but\#this place\..\..\..\. it's no church.
+\bm[34]\>\n<\c[9]Takeshi\c[0]>\#I hope Takuro dosen't hurt\#Shun,\. or you.\| Be careful.
+\bm[35]\>\n<\c[9]Mika\c[0]>\#Why is Takuro acting like\#this? \|This isn't him!
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"From now on we will be worshiping\#the Oni and its ability to punish\#sinners.\| It is now our new god."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Entrance to the basement will now\#be heavily restricted, and the only\#staff permitted are as follows:"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"-The medic\#-The government forces\#-The spiritualists"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from the Warden.\| It's titled\#\c[2]Oni Log #8\c[0].)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"My wifes talisman has been most\#useful.\| With it, I am a god.\| The trick\#to it is a rather useful one."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Whoever holds the talisman can voice\#the beast to do their bidding, and the\#Oni is physically unable to touch you."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Even if someone else obtains the\#talisman from you, it will not simply\#'work' for them."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"A blood sacrifice needs to be made,\#with blood spilled both on the talisman\#and hallowed ground at the same time."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The only hallowed ground in the entire\#area is the \c[2]summoning circle\c[0] that was\#used to bring forth the creature."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This ensures that the Oni will only\#obey my orders!\| It is my ultimate gift\#to those no good sinners!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from the Warden.\| It's titled\#\c[2]Oni Log #7\c[0].)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I always threat for the day the Oni\#would escape, but worse, I fear for\#if the prisoners escape."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I knew the risks bringing that beast to\#our dimension, but I took a chance.\| With\#it locked up, it is quite safe."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The curse it placed on my Jailhouse had\#been minimal, enough to keep some of the\#sinners inside, but it wasn't enough."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"If the Oni was set loose, the curse\#would be amplified, making escape\#impossible."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The curse is also said to change the\#Oni into a mindless beast that can only\#focus on protecting the Jailhouse."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"While useful, I can not allow that to\#happen.\| I have set up a \c[2]blue key\c[0] based\#system."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The exit is made of nuclear resistant\#materials and the only way out is by\#\c[2]using three of these blue keys\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A note from the Warden.\| It's titled\#\c[2]Oni Log #9\c[0].)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Filthy mooches, the Oni and its power\#is all mine!\| Mine!\| I hear them mocking\#me behind my back!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"All I can hear are whispers, why are\#they still talking behind my back!\| All\#of them are against me!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"That bitch of a wife of mine, why is\#she still attempting to disrupt my work?\#\|This is gods work! NOT HERS!"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Even after I cut that whores tongue off\#I can still hear her mocking me!\| Why god?\#Why forsake me like this?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Mine. Mine. Mine. Mine. Mine. Mine.\#Mine. Mine. Mine. Mine. Mine. Mine.\#Mine. Mine. Mine. Mine. Mine. Mine."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"While the others may have plans for\#the serum, I want to actually help\#people, perhaps treat memory loss."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The \c[1]pure glass statues\c[0], when \c[2]exposed to\#light\c[0], emit the most wonderful shapes. I\#have been using these shapes for memory."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I have been having a few of my more...\#appreciative patients try the serum\#after some of their brain is removed."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The results are promising to find that\#the serum even helps people with half a\#brain."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Name: \c[1]Rose Lupin\c[0] Age: \c[1]8\#\c[0]Diagnosis (pend.): \c[1]Homicidal,\#Hypersexual, Schizophrenia, Pyromania"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The subject has recently been studied\#by myself as a normal analysis would be\#breaching major confidentiality."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The subject has confessed to having a\#exposed level of interaction with the\#Oni."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The result has been dangerous levels of\#telepathic communication with the Oni at\#the cost of several mental problems."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Rose Lupin has shown to exhibit possible\#schizophrenia due to illusions as well as\#paranoia."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Oni has infected her brain and she\#has lost the normal innocence of a child.\#\|Further analysis is even more alarming."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Rose exhibits a plethora of possible\#homicidal tendancies, taking delight\#in killing small animals."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"She has stated several times that fire\#makes her feel good, obviously pointing\#towards her vagina."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Off the record - She has seduced me on\#more than one occasion, knowing what to\#do and how to go through with it."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I want to bring in the other doctors,\#but I will not break the oath of privacy,\#plus... it feels... nice."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I shouldn't be enjoying this with a\#mere child, but she seems to know how\#to easily do everything."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I have doomed myself.\| If I get help,\#will she confess to what we have been\#doing?\| I am in deep shit, so to say."
+\bm[38]\>\n<\c[9]Anna\c[0]>\#\n[1].
+\bm[38]\>\n<\c[9]Anna\c[0]>\#Please tell me you've found\#Shun.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Sorry, but no.
+\bm[38]\>\n<\c[9]Anna\c[0]>\#Where did Takuro take him?
+\bm[38]\>\n<\c[9]Anna\c[0]>\#There's only so many places\#down here.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We'll find them.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro is a little unstable, but\#he wouldn't hurt Shun.
+\bm[38]\>\n<\c[9]Anna\c[0]>\#Maybe\..\..\..\| maybe you're\#right.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Try to hang in there just a\#little longer.
+\bm[38]\>\n<\c[9]Anna\c[0]>\#Sure.
+\bm[38]\>\n<\c[9]Mika\c[0]>\#\n[1].\| Have\..\..\..\| have you\#run into Takuro yet?
+\bm[38]\>\n<\c[9]Mika\c[0]>\#Look\..\..\..\| this place\..\..\..\| it's\#really screwing up Takuro.
+\bm[38]\>\n<\c[9]Mika\c[0]>\#He's not normally like this.\|\#He's changing...
+\bm[38]\>\n<\c[9]Mika\c[0]>\#If, like, the worst happens,\#we may have to\..\..\..\| hurt him.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm sure it won't come to that.
+\bm[38]\>\n<\c[9]Mika\c[0]>\#Just\..\..\..\| be careful.
+\bm[38]\>\n<\c[9]Takeshi\c[0]>\#H\..\..\..\| hey, \n[1].
+\bm[38]\>\n<\c[9]Takeshi\c[0]>\#I wanted to ask you something\#important.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm all ears.
+\bm[38]\>\n<\c[9]Takeshi\c[0]>\#If you could save yourself at\#the cost of others...
+\bm[38]\>\n<\c[9]Takeshi\c[0]>\#Would\..\..\..\| would you do it?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What?
+\bm[38]\>\n<\c[9]Takeshi\c[0]>\#I mean\..\..\..\| ah forget I said\#anything!
+Climb
+Collect
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(A diary of an inmate who was trapped in\#Solitary.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"How is any of this legal?\| They lock us\#in here in the dark, barely anything to\#eat or drink."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The warden has lost his mind.\| Why is he\#treating us like this?\| All I did was be\#sick to be put here."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The food they give us is moldy or close\#to rotten.\| I can't keep that down.\| It's\#disgusting."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Being in the dark all the time does\#things to you.\| Lucky I got a candle\#and some matches from the others."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I hear whispers coming from the other\#side of the wall, what is going on?\| I\#need to plan an escape."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I keep hearing screams from my friends\#on the other side of the wall.\| What is\#in that southern room?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Gunshots and screaming, did a prison\#break happen?\| The door has suddenly\#unlocked, am I free?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Thick with smoke from a fire and death,\#death everywhere.\| Something stalked me.\|\#It's waiting until I leave."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I tried to leave again, a giant purple\#demon attacked me.\| I'm too hurt to move.\|\#Is this hell?"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I figured it out, found the way foward.\|\#It sucks that everyone I knew is dead or\#dying.\| The demon has me trapped."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Down to my last match\..\..\..bleeding out\#from that thing.\| Use \c[2]light\c[0]\..\..\..\.see the\#\..\..\..\.message\..\..\..\.there."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(The rest of the message is smeared in\#blood.\| I can't make it out.)
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[44]\c[1] "Blue Key"
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#(A magnetic system that locks\#the door when you take the\#key.\| Clever.)
+\cbm\><\c[9]\n[1]\c[0]>\#Something is at the back of the cell.\|\#I can't reach it.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"This is not good. The Oni somehow\#escaped while we were trying to get\#the fire under control."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I need to inform the warden immediately.\|\#It will probably be too late to escape\#now."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Once free, the area it was summoned to\#gets a spell on it, containing everything\#within."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The Oni will now stop at nothing until\#it protects its area.\| It will kill us\#all!"
+\bm[28]\>\n<\c[9]???\c[0]>\#Oh, it's you\..\..\..\.\|\^
+\bm[28]\>\n<\c[9]???\c[0]>\#I told you that's not\#important.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It damn well is to\#me, so spit it out!
+\bm[28]\>\n<\c[9]Rose\c[0]>\#I was once Rose Lupin,\#the wardens daughter.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Your friend locked me in\#here. \|He is changing.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What the hell do you\#mean changing?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Please, I just want some\#answers!
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Fine, I'll answer your questions.
+About Takuro
+How did it escape?
+About Rose
+Can it be stopped?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What is happening to Takuro?
+\bm[28]\>\n<\c[9]Rose\c[0]>\#He is becoming the creatures\#puppet.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Puppet?
+\bm[28]\>\n<\c[9]Rose\c[0]>\#The monster can control weak\#minds.\| It exploits them.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#It pushes out the worst\#emotion in someone.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Without realising it, you soon\#obsess over a goal.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#It can turn love into lust, greed\#into obsession, or envy into zeal.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#How did the creature even\#escape from here?
+\bm[28]\>\n<\c[9]Rose\c[0]>\#I'm afraid that is my fault.\|\#I was neglected as a child.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#It turned my need for love\#as a little girl around.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#It twisted it into pure lust,\#and I did horrible things.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#I agreed to release it after\#I started a large fire.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Once it was free, it placed\#a curse on the area.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#No one could leave and\#the monster rampaged.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#The only one I managed\#to save was my father.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#The warden.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#How are you the only one\#alive here?
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Part of this horrible curse.\|\#Ever since I reached maturity.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#For over fifty years, I've\#never eaten, slept or aged.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#This place has bound me\#to a life of immortality.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#For a time, I had learned\#to calm the creature.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Calm it?
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Put it to sleep.\| Every time\#blood is spilled it wakes.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#It has been impossible to\#make it sleep this time.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Is there a way to actually\#stop this thing?
+\bm[28]\>\n<\c[9]Rose\c[0]>\#My mother used to tell me\#that there was a spell.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#The spell could send the\#beast back to its dimension.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#I've spent years searching\#yet have found nothing.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#You can try and look around\#but do not expect results.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I have to at least try and\#find the spell.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro has the talisman.\|\#Surely he's protected?
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Takuro was indeed very lucky\#finding the talisman.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Still, it will not work unless it\#gets a blood sacrifice.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#The sacrifice will only work\#at its place of birth.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro said that the talisman\#was working for him though.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#That is strange.\| Perhaps its\#effect is passed through blood.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#We can not get out without\#the key.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Your friend had it on him.\| His\#mind will be gone...
+\bm[28]\>\n<\c[9]Rose\c[0]>\#The serum is gone, so I'm glad\#for that.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Takuro still has the serum.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Please, you must stop him from\#leaving here with it.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Don't underestimate your friend,\#\n[1].
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Your friend\..\..\.. I can sense it,\#he has died.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I tried to save him.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Dying to this cursed place is\#no ones fault.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#He was the last living Lupin\#besides myself.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#Maybe our family deserves to\#be cursed.
+\bm[28]\>\n<\c[9]Rose\c[0]>\#My father unleashed this hell\#and killed so many...
+\bm[28]\>\n<\c[9]Rose\c[0]>\#He had the cell keys on him.\#\|Hurry and free us.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#I can't believe Takuro, what\#is wrong with him?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We have to bring him to his\#senses.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#People judge him, but he's so\#sweet when we're alone.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#My parents hated me for even\#seeing him.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#They did heaps of stuff to try\#and get rid of him.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#But he never left me.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#People like to see me as kind\#of a bitch...
+\bm[41]\>\n<\c[9]Mika\c[0]>\#But I hate people, they only,\.\#like,\. use me.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#I guess I like to hide behind\#all of this stuff.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#Makeup, clothes, jewelry.\| It's\#only to hide the real me.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#Well?\| Have you found Takuro\#yet?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Sorry, Mika.\| I haven't yet.\#\|I'll keep looking.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#I can't believe Takuro would\#do this.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#I trusted him, we were partners.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#That wasn't trust.\| That was\#fear.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'll bring him to his senses.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#Takuro is a nice guy deep down.\#\|It's this place.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#It's changing him, making him\#something... evil.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#Takuro always tries to boost\#my confidence.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#He even got me in shape.\| I\#respect him a lot.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#\n[1], do you have the keys\#to the cells?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Not yet.\| I'll go and see if I\#can find them.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#Takuro had them last.\| Find him,\#find the keys.
+\bm[46]\>\n<\c[9]Anna\c[0]>\#I have a feeling this won't\#end well.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Don't worry, I'll be careful.
+\bm[46]\>\n<\c[9]Anna\c[0]>\#Takuro\..\..\.. he didn't make it,\#did he?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#No\..\..\.. I just wish that I could\#have saved him.
+\bm[46]\>\n<\c[9]Anna\c[0]>\#There's nothing more you could\#have done.
+\bm[46]\>\n<\c[9]Anna\c[0]>\#Do you have the keys?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Keys?
+\bm[46]\>\n<\c[9]Anna\c[0]>\#For the cells.\| Takuro had them\#on him.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Let's head for the exit.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#Is Takuro alright?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm sorry, Mika.\| He's dead.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#I knew I couldn't count on you.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#He's waiting for us, let's go.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#Did Takuro make it?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm afraid not.\| It isn't a\#pretty sight.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#We should never have come\#here.\| It's all my fault.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#Takuro!\| You're alright!
+\bm[0]\>\n<\c[9]Takuro\c[0]>\#I'm\..\..\..\| sorry, Mika.
+\bm[41]\>\n<\c[9]Mika\c[0]>\#Let's get out of here, then\#we can talk!
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#Takuro\..\..\..\| is he?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm afraid not.
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#Takuro, man.\| What the hell?
+\bm[0]\>\n<\c[9]Takuro\c[0]>\#Yeah\..\..\..\| I screwed up.\| Can\#we argue about this later?
+\bm[43]\>\n<\c[9]Takeshi\c[0]>\#\..\..\..\.\| sure.
+\bm[50]\>\n<\c[9]Mika\c[0]>\#No!\| Stay back!\|\^
+\bm[50]\>\n<\c[9]Mika\c[0]>\#Someone help me!
+\bm[50]\>\n<\c[9]Mika\c[0]>\#Hiroshi!\| Help me!\|\^
+\bm[51]\>\n<\c[9]mIkA\c[0]>\#Hiroshi\..\..\.. help me\..\..\..\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Shun!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#He's fine, just out cold.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Please, let Shun go\..\..\..\|\^
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Don't ya think I wanna\#be the hero for once?
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Ya still don't get it,\#do you, \n[1]?
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Shun\| is\| \c[2]already dead!\c[0]\|\| He\#has been for some time.\|
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Impossible...
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#I still don't believe it\#myself.\| I saw him die.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What are you saying?
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#I was the one who\#killed him.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You\..\..\..\. killed him?
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#It was an accident, he\#fell down the stairs!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#And you were just never\#going to tell us?
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#I was going to\..\..\..\. I meant\#to, but just LOOK around!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#The idiot is moving as\#if nothin' happened!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Please, just let Shun go!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Enough talking!\| I won't be\#held back any longer!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What's wrong with you,\#Takuro?
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Hey, babe.\| Just in time.\|\#Hold \n[1] for me.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Mika?
+\bm[11]\>\n<\c[9]Mika\c[0]>\#I'm sorry, \n[1], I\#need Takuro\..\..\..
+\bm[11]\>\n<\c[9]Mika\c[0]>\#Without him, I'm\#nothing.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#That's right.\| I'm her\#everything.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Ya destroyed the serum, but\#I still have the talisman.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#I'll sell it, promising the\#power to control the Oni.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Only to collect it again when\#the Oni feeds on the fools.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Mika, try and talk sense\#into him.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#This place is screwing with\#your mind, Takuro!
+\bm[11]\>\n<\c[9]Mika\c[0]>\#Babe\..\..\..\| he may be right.\|\#You're not like yourself.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#You want the money, don't\#ya, Mika?
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#You'd still be 'that girl'\#around town without me!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#You need me.\| Without me,\#you're nothing.
+\bm[11]\>\n<\c[9]Mika\c[0]>\#I\..\..\..\. I have enough money,\#my family is rich\..\..\..\.\|\^
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#So rich they cut ya off\#for seeing me?
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#They also paid thugs to\#knock my brains out.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#We can get rid of anyone.\|\#Stay with me!\| I need you!
+\bm[11]\>\n<\c[9]Mika\c[0]>\#\..\..\..\| I can't.\| This is wrong.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#This is the only way I can\#help my mother!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Just think of the money\#I can get for this.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Ya need me.\| Without me,\#you're nothing.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Hey, bro.\| Just in time.\|\#Hold \n[1] for me.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takeshi?
+\bm[11]\>\n<\c[9]Takeshi\c[0]>\#I'm sorry, \n[1].\| I\#don't want to die.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#You destroyed the serum, but\#I still have the talisman.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takeshi, try and talk sense\#into him.
+\bm[11]\>\n<\c[9]Takeshi\c[0]>\#I'm sorry, \n[1].\| I\..\..\..\#I only want to go home.
+\bm[11]\>\n<\c[9]Takeshi\c[0]>\#\}I can't betray Takuro, I'm sorry.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#I knew I could count on you\#Takeshi.
+\bm[11]\>\n<\c[9]Takeshi\c[0]>\#You're gonna stick to your\#word, aren't you, Takuro?
+\bm[11]\>\n<\c[9]Takeshi\c[0]>\#You said no one would get\#hurt!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#A few corrupt lives here\#and there won't hurt.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Plus, I'm making ya very\#rich, Takeshi.
+\bm[11]\>\n<\c[9]Takeshi\c[0]>\#I guess.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takeshi, you can't be serious\#about this, can you?
+\bm[11]\>\n<\c[9]Takeshi\c[0]>\#I'm sorry, \n[1], I have\#no choice...
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#I knew I could count on you,\#Takeshi.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#All my friends are dead.\|\#I've nothing left...
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#The serum is gone, but I\#still have the talisman!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#The promise of controlling\#the Oni to greedy fools.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Once they die, I'll collect\#the talisman again.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Rinse and repeat.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#I have nothing left to\#live for.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Here's to the end of the\#world!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#With the talisman, I'm\#a god!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#About time, I summoned\#you ages ago.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Take her and lock her\#up.
+\bm[11]\>\n<\c[9]Mika\c[0]>\#Takuro?\| This isn't you.\|\^
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Don't hurt her.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Lock the coward up in\#the cells.
+\bm[11]\>\n<\c[9]Takeshi\c[0]>\#I thought we had a deal,\#Takuro!?
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#I'm keeping my word.\| You're\#safe, just as promised.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Let's see now\..\..\..\.\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro, you need to wake up,\#you're out of your mind!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#I've never felt better!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#All I want is a chance\#at a good life.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Is that so bad?\| I've lived\#in the slums my whole life.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#There's no need for this.\|\#Just let Shun go!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#Shun means nothing to me.
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#What would I do with a\#ghost?
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#He's only here as bait.\|\#You're the prize, \n[1].
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#I can hear the talisman.\|\#It wants a sacrifice again!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#That's not the talisman\#you idiot.\| WAKE UP!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#This knife has helped me through\#some tough times on the streets,\#and it's gonna help me again!
+\bm[8]\>\n<\c[9]Takuro\c[0]>\#This is the final show!\| The\#last curtain call and you're\#the big star!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Shun?\| Are you alright?
+\bm[9]\>\n<\c[9]Shun\c[0]>\#\n[1]?\| Man, I'm sick\#of getting knocked out.
+Mika:\#He seemed so different.\| Even looking\#at him now\..\..\..\.all I see is evil in his\#eyes.
+Mika:\#Everyone's always hated the real me\#for so long that I started to believe\#it myself.\| I want to be nicer to people.
+Takeshi:\#I kind of feel bad for Takuro, ya know?\|\#He's had such a shitty upbringing it's\#no wonder this place made him crazy.
+Takeshi:\#This place\..\..\..\.it has so much evil.\| It\#needs to be stopped.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Shun, about what Takuro\#said.\| Are you\..\..\..\.\| alive?
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\..\..\..\|\^
+\bm[5]\>\n<\c[9]Shun\c[0]>\#Alive?\| I feel like I am.\|\#What if I am dead?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Forget I said anything.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#What if Takuro was just\#messing with your head?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#He's out cold.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Sorry, Takuro.\| I had\#no other choice.
+\cbm \><\c[9]\n[1]\c[0]>\#I found the item, \i[46]\c[1] "Talisman"
+\cbm\><\c[9]\n[1]\c[0]>\#The talisman won't work for me unless\#it gets another blood sacrifice.\| Still,\#it's better in my hands than Takuro's.
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#Give me back the talisman.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Enough, Takuro.\| Let's just\#get out of here.
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#\..\..\..\. You're weak, \n[1].\| The\#weak\..\..\..\. should die!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#(His mind is completely\#gone)
+Cast Sealing Spell
+Talk Takuro Down
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Here goes nothing.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro.\| I know you're in\#there.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You have to fight it.\| You\#have to wake up!
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#\..\..\..\.\|\^
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#uggh\..\..\.. \n[1]?\| What\..\..\..\#what's happening to me?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Fight it Takuro!
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#I can't.\| I'm losing myself.\|\#Stay away from me \n[1]!
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#I'm sorry \n[1]. I don't\#want to hurt ya.\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro, wait!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm\..\..\.. back?\|\^
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#\..\..\..\|\^
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#My head\..\..\..\|\^
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#What the hell happened?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#The Oni, it's finally\#been sealed.\| It's gone.
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#Are you okay?\| Ya look\#terrible.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I saw my brother.\| I saw\#Tsukada.
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#Your\..\..\..\. brother?\| He's\#been dead for years.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#He helped me\..\..\..\. us\.\#get back.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#That dimension, I can't\#explain it, but it connects.
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#Connects what?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Everything.\| Every dream,\#thought, even to death.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#He died saving my life, you\#know.\| I\..\..\..\. don't mention it.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#He bought me this scarf for\#my eighth birthday.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It was way too big for me\#and I lost it in the wind.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I never noticed the car\#coming as I grabbed it.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#My brother shielded me\#from the crash...
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#So that's why you never\#take off that scarf.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It's not easy to remember\#that I killed him.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I've blamed myself for\#the longest time...
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Even this uniform was his.\#\|I still wear it every day.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I think I can finally move\#on, put it behind me.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Can you walk, Takuro?
+\bm[19]\>\n<\c[9]Takuro\c[0]>\#\c[2]\>*nod*\c[0]\<\| Yeah.\| Let's get the\#hell out of here.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#He's dead\..\..\..\|\^
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[47]\c[1] "Cell Keys"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"In order to conduct the ritual, you\#need to recite a specific quote in an\#ancient text"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"It's important that this text is recited\#within view of the creature and from the\#hallowed ground it was summoned from."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"If the creature has control of a host,\#that can also work.\| Recite the followng\#words:"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#...
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(The words look complicated, but I think\#I can recite them.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The fire has torn through the entire\#break room and has also damaged the\#sick bay and exit."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"We were lucky the basement area is\#mostly concrete and brick, or we would\#have lost it all."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Whoever is responsible for this needs\#to be punished. Maybe our blue friend\#could serve some justice."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The smoke makes it hard to see, I need\#to check on the Oni."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"We got the fire under control, but now\#most of the area is constantly billowing\#thick smoke, making it hard to see."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"We just heard a scream, and are on our\#way to investigate.\| God, I hope that the\#Oni hasn't gotten out."
+\n[1]:\#That sounded like Mika...
+\n[1]:\#The door is locked.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I'm sick of waiting.\| I'll\#find Shun myself.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\c[2]\>*sniff*\c[0]\<\| T\..\..\..\| Takuro?
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#There you are.\| Let's go,\#the others are waiting.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\..\..\..\| No!\| I'm sick of being\#bossed around by you!
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#Seriously, the others are\#waiting just down the hall.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#Wait, what's that ya have?
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\..\..\..\| Nothing.\| It's nothing.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#It's solid gold!\| Ya better\#hand it over.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#\..\..\..\| No!
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#Come on, as a reward for\#findin' ya, I've earned it.
+\bm[5]\>\n<\c[9]Shun\c[0]>\#Piss off, Takuro!
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I said give it, dweeb!
+\cbm\><\c[9]Takuro\c[0]>\#He had fallen down the basement stairs\#and broken his neck.\| I had to hide the\#body.
+\cbm\><\c[9]Takuro\c[0]>\#At the time I had no idea what he was\#holding was the talisman.\| One drop of\#blood was all it took to wake it up.
+\cbm\><\c[9]Takuro\c[0]>\#Soon after, the Oni started chasing\#us, but having a blood sacrifice on\#the talisman made me protected.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Is this the spell?\| It\#feels so surreal.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I can walk in every\#direction...
+\>They say there is a monster that lives there...\|\|\|\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#(He's dead.\| No one could\#survive a fall that high.\|\#He was holding something.)
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#He's dead.
+\>\c[9]\n[1]:\c[0]\#(This was the serum.\| It's smashed.)
+\bm[15]\>\n<\c[9]Rose\c[0]>\#I'm afraid this is as\#far as I can go.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You're not coming?
+\bm[15]\>\n<\c[9]Rose\c[0]>\#I've had no sleep or\#food for decades.
+\bm[15]\>\n<\c[9]Rose\c[0]>\#Even my age has been\#halted all these years.
+\bm[15]\>\n<\c[9]Rose\c[0]>\#The curse draws me here.\|\#I'd die if I ever left.
+\bm[15]\>\n<\c[9]Rose\c[0]>\#I'm glad I could help\#another escape.
+\bm[15]\>\n<\c[9]Rose\c[0]>\#I have not eaten or\#slept for decades...
+\bm[15]\>\n<\c[9]Rose\c[0]>\#With the curse gone, It\#will soon all catch up.
+\bm[15]\>\n<\c[9]Rose\c[0]>\#Forget about me and leave,\#you've earned your freedom.
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#You\..\..\..\.\| you can't leave!\|\^
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#Give me the talisman!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Let go!
+Kick Takuro
+Shake Free
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#The Talisman!\| NOW!\|\^
+Kick Again
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#\n[1]!\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#\..\..\..\.\|\^
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#You're mine!\.\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro!\| Enough!
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#I want what's mine!\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Snap out of it!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#No\..\..\..\|\^
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#My knife!\| It has my foot!\|\#I can't hold on much longer!
+\bm[14]\>\n<\c[9]mIkA\c[0]>\#Takuro\..\..\..\. I love you.
+\bm[12]\>\n<\c[9]Takuro\c[0]>\#\..\..\..\. Mika?\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Snap out of it, Takuro, that's\#not Mika.
+\bm[14]\>\n<\c[9]mIkA\c[0]>\#he\..\..\.. he\..\..\.. he\..\..\..\#Takuro\..\..\..\.\|\^
+\bm[14]\>\n<\c[9]mIkA\c[0]>\#Takuro\..\..\..\| Takuro!\| TAKURO!!\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro!\| Take my hand!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#If I go any further there's\#no turning back.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#I used the Rope.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#It's too dangerous to try and climb.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#NO!\|\^
+\bm[14]\>\n<\c[9]Takuro\c[0]>\#Jump for it!\|\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You saved my life.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#\c[2]\>*huff*\c[0]\<\| Just\..\..\..\.\| returning the favor.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Are you\..\..\..\.\| you?
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#My head is killing me\..\..\..\| what\#happened?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#The monster was controlling\#you.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I don't remember much, but it\#wanted a sacrifice...
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#A sacrifice for the talisman.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Of course.\| It would have made\#it the owner of the talisman.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It could have reversed the power\#and controlled you instead.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#It would have been able to\#leave here using my body.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I could feel it screaming, it\#was full of hate.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What about the others?\| We can't\#leave them behind.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Anna.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Mika.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takeshi.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What about Shun?\| No one should\#be left behind.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I knew ya would say that.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#You can go, but I'm staying\#here.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I won't become its damn puppet\#again.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I'm glad to be out of there.\#\|I'm myself again.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#Forget the serum.\| It's been\#nothin' but trouble.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I felt so obsessed over it,\#like nothing else mattered.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#There, it's gone.\| No more\#serum.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#What about the talisman?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#No more talisman.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#If you're going back there,\#hurry up.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#If not, let's get out of\#here.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#Hurry up, \n[1].\| I want to\#get out of here.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#This was all my fault.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I should never have got\#Takeshi to chase Shun.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#Anna is dead because of me.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I got Mika killed.\| I loved\#her, man.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#My best friend is gone.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#What am I gonna tell his\#folks?
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I was supposed to look after\#him...
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#I'll try and be a better\#person from now on.
+\n<\c[9]Takuro\c[0]>\#Ready to go?
+\n<\c[9]Takuro\c[0]>\#Good, screw this place.
+\n<\c[9]\n[1]\c[0]>\#Ready to go?
+\n<\c[9]\n[1]\c[0]>\#Sorry Takuro, I tried.
+\bm[19]\>\n<\c[9]Mika\c[0]>\#\c[2]\>*sob*\c[0]\<\| Takuro\..\..\..\.\|\^
+\bm[19]\>\n<\c[9]Mika\c[0]>\#Finally back with Takuro!
+\bm[19]\>\n<\c[9]Mika\c[0]>\#Things are going to get so\#much better now, I know it.
+\bm[20]\>\n<\c[9]Takeshi\c[0]>\#We actually made it!
+\bm[20]\>\n<\c[9]Takeshi\c[0]>\#I can't believe it\..\..\.. we\#actually made it.
+\bm[20]\>\n<\c[9]Takeshi\c[0]>\#I wish Takuro was still alive\..\..\..\|\^
+\bm[21]\>\n<\c[9]Anna\c[0]>\#Is\..\..\..\.\| is it over?
+\bm[21]\>\n<\c[9]Anna\c[0]>\#There was nothing we could\#do to save Takuro.
+\bm[21]\>\n<\c[9]Anna\c[0]>\#Let's focus on getting out of\#here.
+\bm[19]\>\n<\c[9]Mika\c[0]>\#Let's hurry and get the\#hell out of here.
+\bm[20]\>\n<\c[9]Takeshi\c[0]>\#This is it guys, we're\#so close to escaping!
+\bm[22]\>\n<\c[9]Shun\c[0]>\#It's just us...
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We made it...
+\bm[22]\>\n<\c[9]Shun\c[0]>\#We both know what Takuro\#did to me.
+\bm[22]\>\n<\c[9]Shun\c[0]>\#I can't leave.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Shun?
+\bm[22]\>\n<\c[9]Shun\c[0]>\#The Jailhouse...\. I can fell\#it, it's holding me here.
+\bm[22]\>\n<\c[9]Shun\c[0]>\#Get out of here while you\#still can.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It's just me...\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#SHUN!\|\^
+\bm[2]\>\n<\c[9]Shun\c[0]>\#\c[2]\>*cough*\c[0]\<\| I don't feel too\#good...
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Try not to talk.
+\bm[1]\>\n<\c[9]Anna\c[0]>\#Please get up, Shun!\|\#We came this far!
+\bm[2]\>\n<\c[9]Shun\c[0]>\#I'm\..\..\..\. sorry Anna.\|\#Takuro was right.
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Shun\..\..\..\. I never meant\#for any of this...
+\bm[1]\>\n<\c[9]Anna\c[0]>\#Don't say it!\| Don't\#you dare say it!
+\bm[2]\>\n<\c[9]Shun\c[0]>\#I was an orphan\..\..\..\. no\#one wanted me.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#All I ever wanted was\#a friend, just one.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#Then\..\..\..\. I met you, Anna.\|\#You actually cared.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#I guess\..\..\..\. this is it.\|\#The curse is gone.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#I'm free.
+\bm[1]\>\n<\c[9]Anna\c[0]>\#\c[2]*sob*\c[0]\| \}You can't go\..\..\..\|\^
+\bm[2]\>\n<\c[9]Shun\c[0]>\#Please stop crying, Anna.\|\#You freed everyone.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#Thank you\..\..\..\|\^
+\bm[1]\>\n<\c[9]Anna\c[0]>\#\c[2]\>*sob*\c[0]\<\| \}Shun\..\..\..\|\^
+\bm[10]\>\n<\c[9]Takuro\c[0]>\#Anna, I really am sorry\#for what happened.
+\bm[1]\>\n<\c[9]Anna\c[0]>\#\c[2]\>*sniff*\c[0]\<\| Just drop it, Takuro.\|\#You've done enough.
+\bm[1]\>\n<\c[9]Anna\c[0]>\#Let's get out of here.
+\bm[1]\>\n<\c[9]Anna\c[0]>\#It's alright, \n[1].\|\#Let's get out of here.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#I want to\..\..\..\. thank you.\|\#You lifted the curse.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#I could hear them crying,\#all of the souls\..\..\..
+\bm[2]\>\n<\c[9]Shun\c[0]>\#They're free now\..\..\..
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Shun\..\..\..\|\^
+\bm[2]\>\n<\c[9]Shun\c[0]>\#I was really hoping what\#Takuro said wasn't true.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#I don't know why this\#place brought me back.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#Maybe to change Takuro?\|\#That's wishful thinking.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#I wonder what heaven is\#like. \|Maybe Anna's there.
+\bm[2]\>\n<\c[9]Shun\c[0]>\#Thank you, \n[1].
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I guess it's my turn\#to finally leave.
+\bm[0]\>\n<\c[9]Takuro\c[0]>\#This path goes into the woods,\#it should lead back to Town.
+\bm[22]\>\n<\c[9]Anna\c[0]>\#We made it.
+\bm[23]\>\n<\c[9]Shun\c[0]>\#\..\..\..\.\|\^
+\bm[24]\>\n<\c[9]Takeshi\c[0]>\#We actually made it!\| I can't\#wait to get home.
+\bm[26]\>\n<\c[9]Mika\c[0]>\#\c[2]*sob*\c[0]\| Takuro\..\..\..\.\|\^
+\bm[26]\>\n<\c[9]Mika\c[0]>\#I'm glad Takuro is okay.
+\bm[23]\>\n<\c[9]Shun\c[0]>\#What\..\..\..\. what is this!?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Shun?\| What's wrong?
+\bm[23]\>\n<\c[9]Shun\c[0]>\#I don't know.\| I can't move.
+\bm[23]\>\n<\c[9]Shun\c[0]>\#It's this place.\| It has\#me cursed to it.
+\bm[22]\>\n<\c[9]Anna\c[0]>\#Wh\..\..\..\. what are you saying?\#\|Let's go.
+\bm[23]\>\n<\c[9]Shun\c[0]>\#I can't!\| You're hurting me\#Anna.
+\bm[22]\>\n<\c[9]Anna\c[0]>\#Shun\..\..\..
+\bm[23]\>\n<\c[9]Shun\c[0]>\#I'm sorry, Anna.\| I was\#hoping I wasn't dead.
+\bm[22]\>\n<\c[9]Anna\c[0]>\#I want to stay with you!\#\|I won't leave you!
+\bm[23]\>\n<\c[9]Shun\c[0]>\#No.\| It wouldn't be fair\#to let you get killed.
+\bm[23]\>\n<\c[9]Shun\c[0]>\#Please, forget about me.
+\bm[22]\>\n<\c[9]Anna\c[0]>\#\c[2]\>*sob*\c[0]\<\| I DON'T CARE!
+\bm[23]\>\n<\c[9]Shun\c[0]>\#Take care of her, \n[1].
+\bm[22]\>\n<\c[9]Anna\c[0]>\#There has to be a way\#to fix all of this!
+\bm[22]\>\n<\c[9]Anna\c[0]>\#We'll come back for you!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What do we do?\| We\#can't leave you here.
+\bm[23]\>\n<\c[9]Shun\c[0]>\#Forget about me, \n[1].\|\#I'm just glad you got out.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'll find out how to stop\#that thing and free you.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I don't care what it\#takes, I'll free you.
+\bm[23]\>\n<\c[9]Shun\c[0]>\#\n[1]...
+\bm[23]\>\n<\c[9]Shun\c[0]>\#Thank you...\|\^
+\bm[25]\>\n<\c[9]Takuro\c[0]>\#We can't help him right\#now. \|We have to leave.
+\bm[25]\>\n<\c[9]Takuro\c[0]>\#This path goes into the woods,\#but it should lead to town.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Let's go.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#I'm so sorry.\| I left you\#all behind.\|\^
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#Forgive me\..\..\..\.\|\^
+\cbm\c[2]Ending \c[3]5/5 'Iris'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] D
+\cbm\c[2]Ending \c[3]5/5 'Iris'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] C
+\cbm\c[2]Ending \c[3]5/5 'Iris'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] B
+\cbm\c[2]Ending \c[3]5/5 'Iris'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] A
+\cbm\c[2]Ending \c[3]5/5 'Iris'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] S
+\bm[2]Letter for you, \n[1].
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#For me?\| Thanks.
+\cbmI couldn't let what happened go.\| I had to\#get away from that town, it was just too\#painful to stay there.\| Why did they forget\#everyone?\| It's like they never exsisted!
+\cbmNo pictures or videos of them anywhere,\#even her own parents had no idea who\#Mika was, or myself.\| Was it part of the\#Oni's curse?
+\cbmThose who die in the Jailhouse get erased,\#as if they never even existed.\| I couldn't take\#living with that, \n[1], so I'm starting my\#life over.
+\cbmI'm much happier here than I ever was\#there.\| Don't forget the others, we're the\#only two who still remember.\|\#~All the best, \c[2]Takuro.\c[0]
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'll never forget them,\#Takuro.
+\cbm\c[2]Ending \c[3]4/5 'Narcissus'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] D
+\cbm\c[2]Ending \c[3]4/5 'Narcissus'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] C
+\cbm\c[2]Ending \c[3]4/5 'Narcissus'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] B
+\cbm\c[2]Ending \c[3]4/5 'Narcissus'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] A
+\cbm\c[2]Ending \c[3]4/5 'Narcissus'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] S
+\cbmWhile most of us managed to escape the\#Jailhouse, Takuro and Shun were not as lucky.\|\#Takuro was killed while Shun's spirit was now\#trapped inside the Jailhouse.
+\cbmThose who didn't make it were forgotten, as\#if they never even existed.\| All traces of them\#had vanished.\| Maybe this was part of the Oni's\#curse.
+\cbmI know there would have been some way to\#rescue Shun and Takuro, if only I could have\#figured it out.
+\cbmMika changed her whole outlook on life after\#what happened.\| She's more caring towards people,\#but I can see that she still misses Takuro a lot.
+\cbmTakeshi, despite his small size has began to\#stand up for bullied School children.\| He recently\#become a class representitive and has shown some\#great initiative.
+\cbmAnna has spent every day since the incident\#researching Oni's and their curses.\| She talks\#about going back to the Jailhouse.\| I hope she\#never does.
+Anna\..\..\..\|\^
+Mika\..\..\..\|\^
+Takeshi\..\..\..\|\^
+Shun and Takuro\..\..\..\|\^
+\cbmThe Oni's curse has wiped them from peoples\#memories, but I will never forget them.\| I hope\#the creature is asleep again as I never want\#anyone else to go through what we did.
+\cbm\c[2]Ending \c[3]3/5 'Orchid'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] D
+\cbm\c[2]Ending \c[3]3/5 'Orchid'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] C
+\cbm\c[2]Ending \c[3]3/5 'Orchid'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] B
+\cbm\c[2]Ending \c[3]3/5 'Orchid'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] A
+\cbm\c[2]Ending \c[3]3/5 'Orchid'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] S
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#Is it done?
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#\c[2]*nods*\c[0]\| I'll be leaving\#soon.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#Are you sure you\#have to go?
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#I can't live in a Town\#cursed by that\..\..\..\. 'thing'.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#It's like Shun never\#even exsisted.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#There's no video, no\#pictures, nothin'.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#This is my chance to\#start over.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Don't ya dare make\#it awkward.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#It's not that.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#I just wish we could\#have done more for Shun.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Ya don't think I don't\#blame myself for that?
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Every day I think 'bout\#it.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#He's trapped there because\#of me.\| It's my fault.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#We didn't know the\#rumors were true.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#My life was shit as\#a kid, \n[1].
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Bullying other people,\#it made me forget it.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#I wanna be a better\#person.\| I owe Shun.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#I have to leave and\#start over.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#H\..\..\..\. Hey guys.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#I didn't know you were\#working today, Takeshi.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#He's not.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#I had to come in today,\#or I'd never see you again.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Sorry.\| I've never been\#good at that mushy stuff.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#Forget about it.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#I heard what you guys\#were saying about Shun.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#I didn't know him well,\#but it's hard.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#I think we should tell\#someone.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#It's best we keep quiet\#about what happened.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#What?\| Why?
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#No one even remembers\#him.\| He never exsisted.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#We don't want more\#people going there.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Or worse, them taking\#us in.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#But\..\..\..\|\^
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#\n[1]'s right, Takeshi.\|\#Shut up about it.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#I guess you're right.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#As long as we remember\#him, he isn't forgotten.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#I need to get back.\#\|I'll bring some sodas.
+\bm[14]\>\n<\c[9]Takeshi\c[0]>\#Promise you'll keep in\#touch, Takuro.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Yeah, yeah.\| Go and get\#our sodas, you crybaby.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#This place still creeps me\#out.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#It's hard to believe that\#Takeshi's gone.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#There's nothing about him,\#his own parents are clueless.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#I guess we were the\#lucky ones.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#\c[2]\>*nods*\c[0]\<\| Yeah, dying in that\#Jailhouse only to be erased.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Have you heard from\#Anna?
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#She hasn't taken to\#what happened well.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#She was researching about\#the Oni, very dark stuff.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#I hope she never goes\#back there.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#What's the deal with you\#and Mika?
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#\c[2]\>*tch*\c[0]\<\| We both decided to\#take a break.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Her parents have welcomed\#her back, of course.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#She's going to join me\#once I've settled in.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#I really wish Mika was\#still here.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#I'd take her with me,\#get away from here.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Her parents have even\#forgot she even exsisted.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#They were jerks\..\..\.. but\#man, to be forgotten\..\..\..
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#I really should get going.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#Come on, you said\#the move was tomorrow.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#This place really bums\#me out.\| It's depressing.
+\bm[1]\>\n<\c[9]\n[1]\c[0]>\#Try the sweet cakes\#before you go.
+\bm[3]\>\n<\c[9]Takuro\c[0]>\#Alright, five more minutes.
+\cbmNearly everything was as it should be, but\#something was telling me there could have\#been more.\| If only there was a way to stop\#the Oni and the curse of the Jailhouse.
+\cbmIf I had the chance, I'd do things differently.
+\cbm\c[2]Ending \c[3]2/5 'Oxalis'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] D
+\cbm\c[2]Ending \c[3]2/5 'Oxalis'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] C
+\cbm\c[2]Ending \c[3]2/5 'Oxalis'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] B
+\cbm\c[2]Ending \c[3]2/5 'Oxalis'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] A
+\cbm\c[2]Ending \c[3]2/5 'Oxalis'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] S
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro!\|\^
+\>\n<\c[9]???\c[0]>\#The boy\..\..\..\| he can't hear you.\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Show yourself!
+\bm[3]\>\n<\c[9]Oni\c[0]>\#Your kind are not worthy\#to inhabit such a world.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#For decades I have been\#bound by the oath.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#We lose all reasoning and\#become mindless husks.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#This fool has out lived his\#usefulness, what a pity.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#If only my kins curse didn't\#affect those I control.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#Useless grubs...
+\bm[3]\>\n<\c[9]Oni\c[0]>\#His mind was weak.\| Yours,\#however, is different.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#I can feel it.\| Here, your\#mind is strong.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#The strongest mind I've\#ever felt!
+\bm[3]\>\n<\c[9]Oni\c[0]>\#I will use your body to\#finally escape my prison.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#Your soul will be trapped\#here for all eternity.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#I will free my kin and\#claim your dimension!
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(If it catches me it's over.)
+It's time...\|\|\#You have to finish this.\|\|\#Everyone needs you.\|\|\^
+\>\n<\c[9]\n[1]\c[0]>\#Tsukada?
+Remember...\|\|\#This is what made you strong.\|\|\#This is what made you\..\..\..\|\|\^
+You.\|\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#\..\..\.. I think I finally understand\#now.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You're trying to trick me\#into losing.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#But it's like you said, my\#mind is strong, too strong.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#After all these years...\#I know YOUR weakness!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You've forgotten what it's\#like to be loved.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#\..\..\..\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#You're afraid that a\#human outsmarted you.
+\bm[3]\>\n<\c[9]Oni\c[0]>\#A mere human cannot stop\#me!\| You are filth!\| FILTH!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Go back home to your own\#dimension, ours is taken.
+\>\n<\c[9]\n[1]\c[0]>\#(The spells time limit is up.\| This\#place is collapsing, I have to get\#out of here!)
+It's time...\|\|\#You have to wake up now.\|\|\#I'm so proud of you \n[1].\|\|\^
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Tsu\..\..\..\|\.\^
+\>\c[9]Anna:\c[0]\#What\..\..\..\|what is this?
+\>\c[9]\n[1]:\c[0]\#We've fallen into a sinkhole.\| I'll see\#if I can find something to get us out.
+\>\c[9]Shun:\c[0]\#\..\..\..\.\|\^
+\>\c[9]Takeshi:\c[0]\#Oh, man.\| Now i'm covered in mud.
+\>\c[9]Takuro:\c[0]\#Great, just great.\| See if you can find\#something to get us out.
+\>\c[9]Mika:\c[0]\#We're stuck down here until you find us\#a way out, \n[1].
+\>\c[9]\n[1]:\c[0]\#No\..\..\..I sealed you.
+\>\c[9]Rose:\c[0]\#Can you hear me?\| The Oni, its connection\#to this place must have been too strong.\|\#Its mind is gone, but its body remains.
+\>\c[9]Rose:\c[0]\#It's essentially a living husk with no\#mind.\| Get out of there!
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Anna!
+\bm[2]\>\n<\c[9]Anna\c[0]>\#I'm fine, \n[1].\| I\#can't believe it's over.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We'll get back to town\#soon.\| Are you okay?
+\bm[2]\>\n<\c[9]Anna\c[0]>\#\c[2]\>*nods*\c[0]\<\| Yeah\..\..\..\|\^
+\bm[2]\>\n<\c[9]Anna\c[0]>\#I can't believe Mika's gone.\|\#I've known her my whole life.
+\bm[2]\>\n<\c[9]Anna\c[0]>\#Why did this have to\#happen, \n[1]?
+\bm[2]\>\n<\c[9]Anna\c[0]>\#Takeshi hung himself.\| If\#he only held on...
+\bm[2]\>\n<\c[9]Anna\c[0]>\#Takuro\..\..\..\. after everything\#he'd done, I forgive him.
+\bm[2]\>\n<\c[9]Anna\c[0]>\#They didn't deserve to\#die back there, \n[1].
+\bm[2]\>\n<\c[9]Anna\c[0]>\#We sealed that thing, sent\#it back.\| This feels wrong.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We did all we could,\#Anna.\| It's still gone.
+\bm[2]\>\n<\c[9]Anna\c[0]>\#I just wish that we\#could have saved them.
+\bm[2]\>\n<\c[9]Anna\c[0]>\#\n[1].
+\bm[2]\>\n<\c[9]Anna\c[0]>\#Mika.
+\bm[2]\>\n<\c[9]Anna\c[0]>\#Takeshi.
+\bm[2]\>\n<\c[9]Anna\c[0]>\#Takuro.
+\bm[2]\>\n<\c[9]Anna\c[0]>\#What we faced in there not\#only made us stronger people...
+\bm[2]\>\n<\c[9]Anna\c[0]>\#...\. It made us stronger friends.\#\|Let's preserve that.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#\n[1].
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#How can I go back to town after\#what I did back there?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It was an accident. I'm\#sure they will understand.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#Mika is dead because of\#me.\| I loved her, \n[1].
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#Takeshi killed himself.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#To have those deaths on\#my shoulders\..\..\.. it's hard.
+\bm[4]\>\n<\c[9]Takuro\c[0]>\#What is everyone gonna\#say?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm not sure, Takuro, but\#we'll figure it out.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I did all I could.\| I hope\#you can find peace.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Tsukada, I wish I could\#have saved you, too.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I made it...
+\cbm\c[2]Ending \c[3]1/5 'Azalea'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] D
+\cbm\c[2]Ending \c[3]1/5 'Azalea'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] C
+\cbm\c[2]Ending \c[3]1/5 'Azalea'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] B
+\cbm\c[2]Ending \c[3]1/5 'Azalea'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] A
+\cbm\c[2]Ending \c[3]1/5 'Azalea'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] S
+\bm[4]\>\n<\c[9]Anna\c[0]>\#It's finally over.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We'll be back to town\#soon.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#\n[1]?
+\bm[4]\>\n<\c[9]Anna\c[0]>\#Do you think Shun passed\#on peacefully?\| Is he free?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#I'm sure of it.\| The curse\#of the Jailhouse is gone.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Everyone who was trapped\#as a spirit should be free.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#I'm glad.\| I'll miss him.
+\bm[3]\>\n<\c[9]Takeshi\c[0]>\#What do we do now?
+\bm[2]\>\n<\c[9]Takuro\c[0]>\#People are going to ask\#where Shun is.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#I want you to pay for\#what happened to Shun.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Anna, what Takuro did was\#an accident.
+\bm[2]\>\n<\c[9]Takuro\c[0]>\#That place made me a\#monster. \|I'm sorry.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#Which is why I can't\#keep blaming you.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#However, that dosen't change\#the fact that I want justice.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#I found out about many\#places using those things.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#A lot of Oni were summoned\#to different areas.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#All of them were covered\#up.
+\bm[3]\>\n<\c[9]Takeshi\c[0]>\#You mean\..\..\..\|\^
+\bm[2]\>\n<\c[9]Takuro\c[0]>\#A government conspiricy.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#I have a list of places\#where they are.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#I want to send every\#last one back.
+\bm[1]\>\n<\c[9]Mika\c[0]>\#Are you nuts?\| That's,\. like,\.\#totally crazy.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#None of you have to\#come, but I'm doing it.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#I want to do this, for\#Shun's sake\..\..\..\| for the\#others trapped,\| for me.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We know the spell to\#stop those things.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#This could actually work.\|\#Count me in.
+\bm[3]\>\n<\c[9]Takeshi\c[0]>\#Count me in too, bro.
+\bm[2]\>\n<\c[9]Takuro\c[0]>\#Ya actually wanna do this\#all over again Takeshi?
+\bm[2]\>\n<\c[9]Takuro\c[0]>\#Ya really have changed.
+\bm[2]\>\n<\c[9]Takuro\c[0]>\#I want to make up for\#what happened to Shun.
+\bm[2]\>\n<\c[9]Takuro\c[0]>\#I owe it to him after\#what happened.\| I'm in.
+\bm[1]\>\n<\c[9]Mika\c[0]>\#Babe, no.\| You can't be\#serious about this.
+\bm[1]\>\n<\c[9]Mika\c[0]>\#It controlled you last time.\|\#It's too dangerous.
+\bm[2]\>\n<\c[9]Takuro\c[0]>\#It's your choice Mika, but\#my mind's made up.
+\bm[1]\>\n<\c[9]Mika\c[0]>\#Dammit\..\..\..\|\^
+\bm[1]\>\n<\c[9]Mika\c[0]>\#Alright, fine.\| Count me\#in.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#If we go through with\#this, we do it together.
+\bm[4]\>\n<\c[9]Anna\c[0]>\#An old \c[2]school\c[0] is the\#first on the list.
+\bm[3]\>\n<\c[9]Takeshi\c[0]>\#This is kind of exciting.\|\#We're official \c[2]Oni Chasers\c[0].
+For Shun!\|\^
+\cbm\c[2]Ending \c[3]0/5 'Perfect'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] D
+\cbm\c[2]Ending \c[3]0/5 'Perfect'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] C
+\cbm\c[2]Ending \c[3]0/5 'Perfect'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] B
+\cbm\c[2]Ending \c[3]0/5 'Perfect'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] A
+\cbm\c[2]Ending \c[3]0/5 'Perfect'\#\c[2]Character Cards Collected:\c[0] \v[92] / 6\#\c[2]Total Game Time:\c[0] \v[96]h:\v[95]m   \c[2]Total Saves:\c[0] \v[94]\#\c[2]Game Time:\c[0] \v[104]h:\v[103]m  \c[2]Saves:\c[0] \v[107]  \c[4]Rank:\c[0] S
+\cbm\><\c[9]\n[1]\c[0]>\#I can change my clothes here.
+School
+Casual
+Poindexter
+Retro
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The shed has been welded shut after\#the creature escaped.\| This was due\#to the panic that occured."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I understand the gaurds wanting to\#protect the equipment in there, but\#we need it."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"If you're reading this then we are\#all dead and you need to get in there,\#so here it is."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I have an idea on how to force the\#door open, by using an \c[2]explosive\#chemical\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I have a \c[2]special powder\c[0] inside\#my bedroom in the \c[2]north hall\c[0], as\#well as some scales."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The chemical is usually used to melt\#the plastic when I create my dolls,\#and can become explosive."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"In order for the chemical to become\#explosive, you need to combine it with\#the correct amount of \c[2]Black Powder\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"I'm poitive I saw some in the labs,\#which has become impossible to get\#due to the soldiers."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Since they are all dead, you should\#have no trouble getting to it by now.\|\#Remember, it needs to be \c[2]0.75 grams\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Since they are all dead, you should\#have no trouble getting to it by now.\|\#Remember, it needs to be \c[2]1.25 grams\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"Since they are all dead, you should\#have no trouble getting to it by now.\|\#Remember, it needs to be \c[2]2 grams\c[0]."
+\cbm\>\n<\c[9]\n[1]\c[0]>\#"The safe code is \c[2]2763\c[0]."\#~Jeff
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#My head...
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#What\..\..\..\. what is this place?\|\#I have to get out of here.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#Locked.\| Something is wedged\#inside the keyhole.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#I have to find the others.
+\><\c[9]\n[1]\c[0]>\#I found the item, \i[2]\c[1] "Wire"
+\><\c[9]\n[1]\c[0]>\#I found the item, \i[2]\c[1] "Stick"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#A switch.
+Push it.
+Leave it alone.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#The statues moved back to\#their default positions.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#The maiden who looks east cannot\#stand the maiden who looks west.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#The maiden who looks west cannot\#stand the cloaked warrior staring.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#The cloaked warrior hates being\#next to the dragon.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(Is there someone here?\|\#It's too dark to see.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(I better be careful.)
+\><\c[9]\n[1]\c[0]>\#I found the item, \i[2]\c[1] "Pickaxe Handle"
+\><\c[9]\n[1]\c[0]>\#I found the item, \i[2]\c[1] "Pickaxe Head"
+\bm[76]\>\n<\c[9]Takuro\c[0]>\#\n[1]?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Takuro, you're alright!
+\bm[76]\>\n<\c[9]Takuro\c[0]>\#That crazy bitch Rose\#jumped us all.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#We didn't see it coming.\|\#Why would she hurt us?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#It makes no sense that\#she would lock us up.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#She could have easily\#killed all of us.
+\bm[76]\>\n<\c[9]Takuro\c[0]>\#How did ya manage\#to escape?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Never mind that, we\#have to leave.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Something is very wrong\#here, I don't like it.
+\bm[76]\>\n<\c[9]Takuro\c[0]>\#Can ya get the cell\#open?
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Let's get out of here.
+\bm[76]\>\n<\c[9]Takuro\c[0]>\#I think Takeshi is down\#here, too.
+\bm[0]\>\n<\c[9]\n[1]\c[0]>\#Let's find him then.
+\bm[76]\>\n<\c[9]Takuro\c[0]>\#After you, captain.
+\><\c[9]\n[1]\c[0]>\#(We each have our own strengths.\|\#I can use Takuro by pressing \c[2]'Q'\c[0])
+\cbm\>\n<\c[9]\n[1]\c[0]>\#If the mine has experienced\#a cave in, the emergency doors\#will seal.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#The doors are tied to several\#support beams around the area\#that help prevent after shocks.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#If you need to re-open the\#doors there are \c[2]three switches\c[0]\#that must be activated.
+\cbm\>\n<\c[9]\n[1]\c[0]>\#Be warned, once the switches are\#activated, the safety system in\#place will be disabled.
+Give me a boost
+Pull Up
+Hop Down
+\><\c[9]\n[1]\c[0]>\#(Not without Takuro.)
+\><\c[9]\n[1]\c[0]>\#(Not without Takeshi.)
+\><\c[9]Takuro\c[0]>\#(I should grab \n[1].)
+\><\c[9]Takuro\c[0]>\#(I should grab Takeshi.)
+\><\c[9]Takeshi\c[0]>\#(\n[1] needs help.)
+\><\c[9]Takeshi\c[0]>\#(Takuro needs help.)
+\><\c[9]\n[1]\c[0]>\#I found the item, \i[2]\c[1] "Key 1"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#Locked.

@@ -1,0 +1,143 @@
+\cbm\^\cbm
+\cbm\><\c[9]\n[1]\c[0]>\#Pour soap on the handkerchief?
+Yes
+No
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[4]\c[1] "Door Knob"
+\cbm\><\c[9]\n[1]\c[0]>\#I undone the panel.
+\cbm\><\c[9]\n[1]\c[0]>\#It won't fit the screws.
+\cbm\><\c[9]\n[1]\c[0]>\#Undone the panel.
+\cbm\><\c[9]\n[1]\c[0]>\#I wiped the Piano with the\#Handkerchief.
+\cbm\><\c[9]\n[1]\c[0]>\#Fill the lighter with fluid?
+\cbm\><\c[9]\n[1]\c[0]>\#A Blue Gem is already inserted.
+\cbm\><\c[9]\n[1]\c[0]>\#Insert the \c[2]Red Gem\c[0] into the\#socket?
+\cbm\><\c[9]\n[1]\c[0]>\#Inserted the Red Gem.
+\cbm\><\c[9]\n[1]\c[0]>\#Insert the \c[2]Red Gem\c[0] into the\#eye of the Doll in your inventory?
+\cbm\><\c[9]\n[1]\c[0]>\#Insert the \c[2]Red Gem\c[0] into the\#eye of the doll on the table?
+\cbm\><\c[9]\n[1]\c[0]>\#A Red Gem is already inserted.
+\cbm\><\c[9]\n[1]\c[0]>\#Insert the \c[2]Blue Gem\c[0] into the\#socket?
+\cbm\><\c[9]\n[1]\c[0]>\#Inserted the Blue Gem.
+\cbm\><\c[9]\n[1]\c[0]>\#Insert the \c[2]Blue Gem\c[0] into the\#Jewlery Box?
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[14]\c[1] "Basement Key"
+\cbm\><\c[9]\n[1]\c[0]>\#Light the fireplace?
+\cbm\><\c[9]\n[1]\c[0]>\#Change the head of the Screwdriver?
+\cbm\><\c[9]\n[1]\c[0]>\#Opened the clock.
+\cbm\><\c[9]\n[1]\c[0]>\#Burned the doll.
+\cbm\><\c[9]\n[1]\c[0]>\#Remove the Red Gem?
+\cbm\><\c[9]\n[1]\c[0]>\#Insert the \c[2]Yellow Gem\c[0] into the\#eye of the doll on the table?
+\cbm\><\c[9]\n[1]\c[0]>\#Inserted the Yellow Gem.
+\cbm\><\c[9]\n[1]\c[0]>\#Attach the Doll Head?
+\cbm\><\c[9]\n[1]\c[0]>\#Attached the Doll Head.
+\cbm\><\c[9]\n[1]\c[0]>\#Attached the Doll Head to the painting.
+\cbm\><\c[9]\n[1]\c[0]>\#Attached the Light Bulb.
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[27]\c[1] "Creepy Bookmark"
+\cbm\><\c[9]\n[1]\c[0]>\#Inserted "Disk"
+\cbm\><\c[9]\n[1]\c[0]>\#Screw together the Metal Stick and\#Disk?
+\cbm\><\c[9]\n[1]\c[0]>\#They snapped together to make a key!
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[33]\c[1] "Catacombs Key"
+\cbm\><\c[9]\n[1]\c[0]>\#Use vinegar on the Red Key?
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[31]\c[1] "Iron Gate Key"
+\cbm\><\c[9]\n[1]\c[0]>\#Attached the Die to the painting.
+Messages
+\cbm\><\c[9]From Service\c[0]>\#Low or no reception. Please move to a\#more suitable location and try again.
+\c[2]From @!23!@Xx:\c[0]\#Head to the right hall and to the end.
+\c[2]From @!23!@Xx:\c[0]\#What broke in the kitchen? Reading notes\#can reveal past events and show clues.\|\#\c[1]'?' \c[0]above its spot means it is a note.
+\c[2]From @!23!@Xx:\c[0]\#Some objects can be pushed with \c[2]Z\c[0].\#You can also hide in lockers. Check\#the 2F for clues.
+\c[2]From @!23!@Xx:\c[0]\#Head to the right wing on the 1F to\#find the Library.
+\c[2]From @!23!@Xx:\c[0]\#Your actions can affect the fate of your\#friends. What you do can decide if they\#live or die.
+\c[2]From @!23!@Xx:\c[0]\#Look for some soap. I'm sure it would\#come in handy later!
+\c[2]From @!23!@Xx:\c[0]\#Notice the order of items. Third\#sun, second moon. They relate to\#the piano key order.
+\c[2]From @!23!@Xx:\c[0]\#Arrange the numbers by the date the\#events took place to get the answer.
+\c[2]From @!23!@Xx:\c[0]\#Sometimes the easiest answer isn't\#always the right one.
+\c[2]From @!23!@Xx:\c[0]\#A pushable object can sometimes go to\#another room. Some things may only be\#visible under certain sources of light.
+\c[2]From @!23!@Xx:\c[0]\#Locked doors need keys to open. The\#Library's might be somewhere upstairs.
+\c[2]From @!23!@Xx:\c[0]\#The way foward is sometimes hidden\#from plain view. Look for clues on\#where other people have tred.
+\c[2]From @!23!@Xx:\c[0]\#Don't move another step! Something is\#very hungry. Maybe feeding it something\#from the kitchen might help?
+\c[2]From @!23!@Xx:\c[0]\#Maybe you can \c[2]push\c[0] something and use it\#to get across the gap? The etching on\#the wall may react to fire...
+\cbm\><\c[9]\n[1]\c[0]>\#Attach the hook to the rope?
+\cbm\><\c[9]\n[1]\c[0]>\#Threw the rope + hook\..\..\..\|\^
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[43]\c[1] "Study Key"
+\cbm\><\c[9]\n[1]\c[0]>\#It's too dark to see...
+\cbm\><\c[9]\n[1]\c[0]>\#Placed the "Blue Key"
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(I now know the ritual for the sealing\#spell.\| Maybe I can finally get rid of\#the Oni.)
+Notes
+Locations
+Creatures
+The Mansion
+The Mansion was once the home of the Lupin family.\#After an incident in which all the members of the\#area suddenly vanished, with the father being the\#only survivor, the area was closed.
+Over fifty years after the closure, The Mansion was\#set to be rebuilt and turned into a nursing home,\#until the workers were suddenly finding themselves\#losing keys and working tools.
+The area was eventually abandoned, and over\#the years became a hot spot for the nearby\#town, kids placing dares of courage based on\#rumors that it houses a monster.
+\>\c[2]PLACES OF INTEREST\c[0]\<\#The Mansion housed an impressive assortment of\#books in its Library, which would take someone\#a life time to read.
+The Basement
+The Basement was once the first 'home' to the\#monster that the Jailhouse staff locked up,\#and was once the busiest area. After suffering\#major water damage, the basement was abandoned.
+\>\c[2]PLACES OF INTEREST\c[0]\<\#Exotic foods, wines and spices were stored here,\#now ruined by the water damage.
+The Annex
+The Annex was once the rest house for all the\#workers who needed some relaxation. It was\#used as an area to hold meetings between the\#staff or prepare meals every evening.
+The Annex was also used constantly for long\#distance visitors, such as bankers or VIP.\#Outside communication was strictly forbidden\#from there.
+\>\c[2]PLACES OF INTEREST\c[0]\<\#The Annex once housed some of the worlds most\#elite personal, and had an enourmous dining room\#and what was once a state of the art kitchen.
+The Laboratory
+The Laboratory was a secret government funded\#area dedicated to researching what the creature\#known as an 'Oni' was and what properties of\#its DNA could be used to better humanity.
+Many evil experiments were conducted here, which\#included turning people into Oni creatures just\#to find out the secrets behind them. In their haste\#to escape, the Lab was never destroyed, only hidden.
+\>\c[2]PLACES OF INTEREST\c[0]\<\#Dated by todays standards, the Laboratory held\#some of the most high tech DNA splicing and\#researching equipment in the world.
+The Catacombs
+The Catacombs were once a way to secretly slip\#in illegal medicines and elixers, as well as a\#way to hide more illegal practices. The exit\#has since caved in and been rendered useless.
+\>\c[2]PLACES OF INTEREST\c[0]\<\#The Catacombs were hallowed out by miners when\#the Government took over the Jailhouse. It was\#used to often sneak in illegal items.
+The Old Building
+The Old Building, also known as The Gaurdhouse,\#was the final prison of the Oni, and also housed\#The Jailhouse's prisoners. It was also the location\#of all of the Warden's financial and personal files.
+\>\c[2]PLACES OF INTEREST\c[0]\<\#Despite almost being destroyed by a fire over fifty\#years ago, smoke seems to constantly billow inside\#the building, making seeing and breathing difficult.
+The Inbetween
+The Inbetween is a dimension between dimensions, a\#spiritual plane of exsistance that connects to all things,\#worlds, realities, life and even death.
+Through it, a being is able to replace their mind with\#that of another and can be extemely dangerous, so a\#strong mind is a must.
+The world of The Inbetween will always change its\#appearance based on the one who casted the spell,\#with trials and challenges being presented based\#on the casters personal fears and thoughts.
+The Sentinelese believe that weak minds can not\#complete the ritual, and so they keep the ability\#to enter The Inbetween a secret, as they believe\#it to be a right of passage for adulthood.
+Oni
+The Oni is a supernatural being known as a YÅkai\#that was summoned from a different dimension by\#the Warden in the belief that it could help 'punish\#the sinners'
+Once an Oni is summoned, the spell used will force\#the creature into a mindless rage, with only one goal,\#to protect an area - at any cost.
+The Oni will place a curse on the area in order to\#protect it, which traps all who are inside, or those\#who decide to wander in. Areas damaged before\#it casts its curse will weaken its magic.
+The Oni has the ability of mimicry, is immortal and\#ageless, has immense strength and is said to have\#psychic powers, able to communicate telepathically\#and also influence weak minds.
+The Oni's bite also has the ability to rewrite a victims\#DNA in mere seconds, changing their form entirely into\#another Oni. Some victims may keep their looks or\#traits if their will to live is strong enough.
+Slug Oni
+The Slug Oni seems to be a garden variety slug that\#was mutated when infected by the Oni's DNA. Now a\#hulking beast, the Slug Oni is composed of many of its\#killed victims, which it adds to its mass via assimilation.
+The Slug Oni is extremely heavy and prefers to use\#stealth as a way to surprise potential victims, slowly\#climbing on roofs and walls before hurling its body,\#crushing and assimulating itself into a larger mass.
+Roach Oni
+The Roach Oni is a cockroach that has been infected\#and mutated by the Oni's DNA. Unlike most other Oni\#creatures, the Roach Oni seems to have kept its baser\#instincts and memory, behaving exactly like a cockroach.
+While not dangerous by itself, if provoked, or hungry\#enough, a Roach Oni will attack, often in a group of\#other Roach Oni.
+Blockman Oni
+The Blockman Oni is an Oni that somehow emerged\#when the original Oni was summoned. Unlike the Oni,\#Blockman Oni is a purely predatorial being, with no mind\#or thought to itself except to hunt and eat.
+The Blockman Oni prefers to charge at its victims, biting\#down with its razor sharp teeth. This Oni pursues its\#victims for much longer and can become paper thin\#to fit inside otherwise impossible areas.
+The Possessed
+The Possessed are victims of the Oni's attempts at\#controlling people in order to achieve its goals.\#While useful to the Oni at first, The Possessed soon\#succumb to the same rage curse that affects itself.
+In order to control a victim, the Oni will use its telepathic\#powers to find a weakness in a victim, drawing out an\#emotion it can use, much like flipping a switch, such as\#turning love into lust, or greed into obsession.
+The Possessed are usually unaware that they are\#being manipulated until it's too late, and often think\#that their actions are their own. Once released from\#the Oni's control, the victim forgets what happened.
+Congratulations on finishing Hell Mode!\|\#You truly are a master at Ao Oni R!\| I hope\#you enjoyed the game as much as the original.\#\c[3]~ungodly
+\>\cbm\c[2]CONGRATULATIONS!\c[0]\#You can now play the game on "Hard"
+\>\cbm\c[2]CONGRATULATIONS!\c[0]\#You can now play the game on "Hell"\#Good luck, you'll need it!
+\>\cbm\c[2]CONGRATULATIONS!\c[0]\#You earned the "Closet Key"
+\>\cbm\c[2]CONGRATULATIONS!\c[0]\#You can view the art and music!\|\#Use the code "3008" on the RAR file!
+Hiroshi
+HiroshiM cheat disabled!\#Type it again to turn on!
+HiroshiM cheat applied!\#Type it again to turn off!
+BLOCKMAN cheat disabled!\#Type it again to turn on!
+BLOCKMAN cheat applied!\#Type it again to turn off!
+BigBoi cheat disabled!\#Type it again to turn on!
+BigBoi cheat applied!\#Type it again to turn off!
+Happy cheat disabled!\#Type it again to turn on!
+Happy cheat applied!\#Type it again to turn off!
+Retro cheat disabled!\#Type it again to turn on!
+Retro cheat applied!\#Type it again to turn off!
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(How much should I add?)
+One
+Two
+Three
+All of it
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(I've added some powder to the\#scales.)
+\cbm\>\n<\c[9]\n[1]\c[0]>\#(I have no more \c[2]Gun Powder\c[0].)
+\cbm\><\c[9]\n[1]\c[0]>\#Combine the Powder and Gun Powder?
+\cbm\>\n<\c[9]\n[1]\c[0]>\#Light the powder?
+\cbm\><\c[9]\n[1]\c[0]>\#Combine the Stick and\#Wire?
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[33]\c[1] "Poker"
+\cbm\><\c[9]\n[1]\c[0]>\#Use the Poker on the\#keyhole?
+\cbm\><\c[9]\n[1]\c[0]>\#\..\..\..\|\^
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[33]\c[1] "Cell Key"
+\cbm\><\c[9]\n[1]\c[0]>\#The Poker broke...
+\cbm\><\c[9]\n[1]\c[0]>\#Combine the Pickaxe head\#and handle?
+\cbm\><\c[9]\n[1]\c[0]>\#I found the item, \i[33]\c[1] "Pickaxe"

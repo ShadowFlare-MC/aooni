@@ -1,0 +1,120 @@
+Casual Clothes
+Very lightweight clothes.
+Leather Top
+Made with the best leather.
+Adventurer's Garb
+Worn clothing that can withstand a harsh journey.
+Hard Leather
+Hardened leather vest.
+Brigandine
+Clothing made with reinforced steel.
+Bandana
+Headband cloth that protects the head.
+Leather Bandana
+Headband made of leather to protect the head.
+Fur Hat
+Hat made of fur.
+Turban
+Thick cloth wrapped repeatedly around one's head.
+Feather Cap
+Stylish hat with feathers from many beautiful birds.
+Cotton Robe
+A robe made of thick cotten.
+Silk Cloak
+A cloak made of fine silk.
+Runed Robe
+A lined robe engraved with runes.
+Hermit Robe
+Robe worn by a wise old man.
+Elemental Cloak
+The power of the spirit king dwells in this robe.
+Copper Brace
+Hair ornaments made of copper.
+Circlet
+A ring-shaped ornament made of iron.
+Silver Hairpin
+Hair accessory that enhances magic.
+Mithril Circlet
+Mithril circlet made of the magic mineral.
+Magi's Crown
+Empowered by an ancient magical civilization's power.
+Leather Mail
+Armour made with overlapping leather.
+Bronze Plate
+A breastplate made of bronze.
+Iron Plate
+A breastplate made of iron.
+Mithril Plate
+Mithril breastplate made of the magic mineral.
+Dragon Plate
+A breastplate made from dragon scales.
+Leather Hap
+A hat made out of leather.
+Bronze Cap
+A reinforced hat made with bronze.
+Sarett
+A hat made with steel.
+Mithril Cap
+Mithril cap made of the magic mineral.
+Dragon Cap
+A hat made of dragon scales.
+Chain Mail
+Armour made with iron chains.
+Iron Armour
+Armour made of steel.
+Plate Mail
+Knights wear plate mail.
+Mithril Armour
+Mithril armour made of the magic mineral.
+Dragon Armour
+Armour made from dragon scales.
+Chain Helm
+Helmet made of iron chains.
+Iron Helm
+Helmet made of steel.
+Knight Helm
+Knights wear this helm.
+Mithril Helm
+Mithril helm made of the magic mineral.
+Dragon Helm
+Helmet made of dragon scales.
+Buckler
+A small shield used to fend off attacks.
+Round Shield
+A circular shield with a reinforced steel frame.
+Spike Shield
+A shield with spikes on its surface for offense.
+Mithril Buckler
+Mithril buckler made of the magic mineral.
+Dragon Buckler
+Buckler made of dragon scales.
+Wood Shield
+A shield made with hard wood.
+Iron Shield
+Shield made of steel.
+Knight Shield
+Knights use this shield.
+Mithril Shield
+Mithril shield made of the magic mineral.
+Dragon Shield
+Shield made of dragon scales.
+War God's Belt
+Metal belt engraved with the War God's name.
+Defense Piece
+Hung at the magic forest for defense.
+Winged Boots
+The holy spirit of the wind dwell in these boots.
+Earth's Embrace
+The power of the earth protects the wearer.
+Lucky Charm
+A charm engraved with the name of the goddess of luck.
+Holy Symbol
+A symbol worn by those who serve God.
+Solomon's Ring
+A ring with the hidden power of a genie.
+Odin's Necklace
+A magic necklace that empowers those who fight.
+Eyepatch of Fury
+An eyepatch worn by powerful berserkers.
+Talisman of Light
+The king of gods dwell in this talisman.

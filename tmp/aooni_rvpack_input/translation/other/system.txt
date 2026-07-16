@@ -1,0 +1,70 @@
+Physical
+Absorb
+Fire
+Ice
+Thunder
+Water
+Earth
+Wind
+Holy
+Dark
+Special
+Magic
+Axe
+Claw
+Spear
+Sword
+Katana
+Bow
+Dagger
+Hammer
+Staff
+Gun
+General Armour
+Magic Armour
+Light Armour
+Heavy Armour
+Small Shield
+Large Shield
+G
+MaxHP
+MaxMP
+ATK
+DEF
+MAT
+MDF
+AGI
+LUK
+Weapon
+Shield
+Headgear
+Bodygear
+Accessory
+Fight
+Escape
+Attack
+Guard
+Items
+Skills
+Equipment
+Status
+Formation
+Save
+Game End
+Weapons
+Armours
+Key Items
+Change
+Optimize
+Clear
+New Game
+Continue
+Shutdown
+To Title
+Cancel
+Level
+LV
+HP
+MP
+TP
+Aooni Legacy 6.23

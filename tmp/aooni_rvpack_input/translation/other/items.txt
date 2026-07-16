@@ -1,0 +1,131 @@
+Plate Shard
+Looks sharp. Could be used\#to cut things.
+Library Key
+The key for the Library.
+Bedroom Key
+The key for one of the\#bedrooms.
+Screwdriver
+A changable screwdriver.\#The Star piece is on.
+Door Knob
+Found it in the Attic.
+Handkerchief
+It seems like it was\#Takeshi's
+Soap
+Liquid soap.
+Lighter Fluid
+Fluid used to refil a\#lighter.
+It is covered in soap.
+Kid's Bedroom Key
+The key for the childrens\#bedroom.
+Lighter
+It's out of lighter fluid.
+Great for seeing in the\#dark.
+Compression Kit
+Can be used to treat\#sprains.
+Character Card - Hiroshi
+Character Card - Takuro
+Character Card - Takeshi
+Character Card - Mika
+Character Card - Anna
+Character Card - Shun
+Old Key
+An old looking key.
+Red Gem
+A red colored gem.
+Blue Gem
+A blue colored gem.
+Jewlery Box
+It won't open. There is a\#socket on it.
+Basement Key
+The key for the basement.
+Flathead
+A screwdriver head piece.
+Star
+A changable screwdriver.\#The Flathead piece is on.
+Jail Cell Key
+A key for the Jail Cell in\#the Basement.
+Padlock Key
+A key for a padlock.
+Annex Key
+A spare key to the Annex\#building.
+Light Bulb
+A simple lightbulb.
+Doll
+A lifelike doll. It has a\#single Yellow eye.
+A lifelike doll. It has\#Yellow and Red eyes.
+Yellow Gem
+A yellow colored gem.
+Doll Head
+Its eyes are Red and\#Yellow Gems.
+Annex Basement Key
+A key for the Annex\#basement.
+Guest Room Key
+A key for one of the\#Annex guestrooms.
+Rotten Meat
+It smells aweful.
+Picture Book
+A picture book.
+Creepy Bookmark
+A creepy looking bookmark.
+Red Key
+Crusty with rust.
+Disk
+A strange looking disk.
+Vinegar
+A bottle of vinegar. What\#did Takuro want with this?
+Iron Gate Key
+It has Crematorium etched\#on it.
+Metal Stick
+Looks like a simple metal\#stick.
+Catacombs Key
+The key says 'Catacombs'\#on it.
+Backdoor Key
+The key says 'Back Door'\#on it.
+Rope
+Seems strong enough to\#support someone.
+Trowel
+A small hand shovel.
+Relic A
+It has 'Death' etched onto\#it.
+Relic B
+It has 'Sleep' etched onto\#it.
+Die
+A single die.
+Hook
+Curved and sharp, but\#useless by itself.
+Mobile Phone
+Your mobile phone. It has\#little to no reception.
+Rope + Hook
+A rope with a hook\#attached to it.
+Study Key
+A key for the Old Building\#2F Study.
+Blue Key
+An oddly shaped key.
+Warped Key
+A strangely shaped key.\#It is distorted.
+Talisman
+An ancient coin that can\#control Oni's.
+Cell Keys
+Keys for the Cells in the\#Old Building.
+Files
+Closet Key
+A key for a special door\#somewhere in the mansion.
+Agrimony
+A herb used to banish evil\#spirits temporarily.
+Camera
+An old polaroid camera.
+Powder
+A powder used to mold\#plastic.
+Gun Powder
+An explosive powder. Could\#be mixed with something.
+An explosive powder. It\#has been weighed.
+Explosive
+An explosive powder. It\#will make a bang.
+Wire
+Stick
+Poker
+Cell Key
+Pickaxe Handle
+Pickaxe Head
+Pickaxe
+Key 1
